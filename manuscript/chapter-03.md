@@ -1,4 +1,4 @@
-#Exploring the map
+#Exploring the map {#chapter-03}
 
 Hurray, we've got a map! What now? The purpose of producing a map is to help us to learn and then apply basic climatic patterns, doctrine and context specific forms of gameplay. Maps are our learning and communication tool for discovering these things and enabling us to make better decisions before acting. However, the strategy cycle is iterative and we're not going to learn all the patterns the first time we use a map any more than we learn everything about Chess in our first game. Instead, like a game of chess then play by play, move by move we're going to get a little bit better.
 
@@ -32,7 +32,7 @@ The market itself was becoming more predictable; customer demands for large volu
 
 ![Figure 21 — Characteristics change](images/figure-21.jpeg)
 
-Since this change is common for all components then I was able to collect a list of characteristics in order to produce the cheat sheet previously shown in figure 17 (chapter 2). Now, you might argue that this is circular because I'm stating the extremes are different using a map which is built with a cheat sheet which assumes that the extremes are different. This is a perfectly reasonable challenge and one which requires me to explain how that evolution axis was created. That subject is an entire chapter of this book and if you wish you should skip ahead to read it (chapter 7 — finding a new purpose). For the time being, it is enough to know that all your components evolve due to competition and as they do so their characteristics change from the uncharted to the industrialised. You cannot stop them evolving if there exists competition around them.
+Since this change is common for all components then I was able to collect a list of characteristics in order to produce the cheat sheet previously shown in figure 17 ([chapter 2](#chapter-02)). Now, you might argue that this is circular because I'm stating the extremes are different using a map which is built with a cheat sheet which assumes that the extremes are different. This is a perfectly reasonable challenge and one which requires me to explain how that evolution axis was created. That subject is an entire chapter of this book and if you wish you should skip ahead to read it ([chapter 7](#chapter-07) — finding a new purpose). For the time being, it is enough to know that all your components evolve due to competition and as they do so their characteristics change from the uncharted to the industrialised. You cannot stop them evolving if there exists competition around them.
 
 ### Climatic pattern: No one size fits all
 
@@ -153,4 +153,4 @@ Of course, what I now know is that I was only at the beginning of my journey. Th
 
 ## An exercise for the reader
 
-In chapter 2 I asked you to have a go at mapping something. Well, take that map, look at the common climatic patterns described in figure 27 and have a go at applying them to your map. See what you can anticipate. It helps to get others involved as mapping is fundamentally a communication and learning tool and the best results come from collaborating with others. If you're mapping an aspect of your company then try and find someone with a different skill-set to yourself i.e. if you're in finance, go grab someone from IT or operations or marketing.
+In [chapter 2](#chapter-02) I asked you to have a go at mapping something. Well, take that map, look at the common climatic patterns described in figure 27 and have a go at applying them to your map. See what you can anticipate. It helps to get others involved as mapping is fundamentally a communication and learning tool and the best results come from collaborating with others. If you're mapping an aspect of your company then try and find someone with a different skill-set to yourself i.e. if you're in finance, go grab someone from IT or operations or marketing.

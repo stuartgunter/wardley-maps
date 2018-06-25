@@ -1,4 +1,4 @@
-# Finding a path
+# Finding a path {#chapter-02}
 
 The problem I had was how do I map a business? Unlike a board game such as chess with its turned based moves, when you consider a business it is a living thing. It consists of a network of people, a mass of different activities and reserves of capital including financial, physical, human and social. It consumes, it produces, it grows and it dies. Like all organisms, any business exists within a community of others, an ecosystem. It competes and co-operates for resources and it's shaped by and shapes its environment. Even within a business, people come and go. The things we do, the things we build and the things that others desire change over time. All firms are in a constant state of flux and the ecosystem it lives within never stands still. What sort of map can cope with that?
 
