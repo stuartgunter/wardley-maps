@@ -24,7 +24,7 @@ I rapidly discovered that despite all of our talking, daily status meetings and 
 
 By chance, I had picked up a copy of the "Art of War" by Sun Tzu. Truth be told I picked up several different translations as the bookseller had advised that none of them were quite the same. That was serendipity and I owe that bookseller a debt of thanks because it was whilst reading through my second translation that I noticed something that I had been missing in my understanding of strategy. Sun Tzu had described five factors that matter in competition between two opponents. Loosely speaking, these are: — purpose, landscape, climate, doctrine and leadership. I've drawn them as a circle in figure 1.
 
-![Figure 1 — The five factors](images/figure01.jpeg)
+![Figure 1 — The five factors](images/figure-01.jpeg)
 
 When I looked at my strategy document, I could see a purpose and then a huge jump into leadership and the strategic choices we had made. But where was landscape, climate and doctrine? I started to think back to every business book that I had read. Everything seemed to do this jump from purpose to leadership.
 
@@ -102,7 +102,7 @@ I'm going to take you through the same thought experiment that I went through. R
 
 I want you to now imagine you live in a world where everyone plays chess and how well you play the game determines your success and your ranking in this world. However, in this world, no one has ever seen a chessboard. In fact, all you've ever seen are the following characters on a screen and you play the game by simply pressing a character, your opponent counters and then you counter and so forth. The list of moves being recorded underneath the characters.
 
-![Figure 4— Chess World](images/figure04.jpeg)
+![Figure 4— Chess World](images/figure-04.jpeg)
 
 Now both players can see what the other has pressed, white started with Pawn (w), black countered with Pawn (b) and so on. The game will continue until a draw is determined or someone has won. Neither player is aware of the concept of a board or that each of the characters may represent one of many pieces (i.e. there are eight Pawns). However, this lack of awareness won't stop people playing and others collecting numerous sequences from different games. With enough games, people will start to discover "magic sequences" of success. If you press Knight, I should counter with Pawn, Pawn, and Bishop!
 
@@ -160,7 +160,7 @@ The point of this example is to demonstrate three things. First, the process of 
 
 The best way I've found to cope with this cycle is through the work of the mad major himself — the exceptional John Boyd. In order to understand the process of air combat, John Boyd developed the OODA loop. This is a cycle of observe the environment, orient around it, decide and then act. In figure 7 below, I've married together both Sun Tzu and John Boyd to create a strategy cycle.
 
-![Figure 7— The Strategy Cycle](images/figure07.jpeg)
+![Figure 7— The Strategy Cycle](images/figure-07.jpeg)
 
 Now, it's worth remembering where I was back in 2004. I had a purpose which wasn't static despite my belief it was. I was jumping to strategy whilst ignoring landscape, climate and doctrine. I was using storytelling to communicate with the entire group. I had no mechanism of learning. I was simply copying secrets of success from others combined with magic frameworks such as SWOTs and then I was acting upon it. Our strategy was a tyranny of action statements without any inkling about position and movement but instead built upon gut feel and "core". If there was a way to get things more wrong, I haven't found it since and I was the CEO. However, we were doing well and the one thing I had in my favour was that I understood how little I knew about strategy.
 
