@@ -1,3 +1,4 @@
 chapter-01.txt
 chapter-02.md
 chapter-03.md
+chapter-04.md
