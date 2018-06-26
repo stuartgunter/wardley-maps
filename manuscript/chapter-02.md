@@ -139,7 +139,7 @@ The next thing to do is to share your map with others in your organisation and a
 
 I have found subsequently, this process of sharing not only refines the map but spreads ownership of it. You should also use this time to consider any unmet needs, any missing components and ask questions on whether you're treating things in the right way? It's often surprising to find how many companies are spending vast resources on building their own metaphorical Thomas Thwaites toasters when a commodity version is readily available.
 
-##The next step
+## The next step
 
 With a map in hand, we're now ready to start exploring the strategy cycle and hopefully start learning some useful lessons. Well, at least that's what I hoped for in 2005. In the next chapter, I intend to show you what I discovered. But before I do, I have a request to make of you.
 
