@@ -6,3 +6,4 @@ chapter-05.md
 chapter-06.md
 chapter-07.md
 chapter-08.md
+chapter-09.md
