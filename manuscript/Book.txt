@@ -8,3 +8,4 @@ chapter-07.md
 chapter-08.md
 chapter-09.md
 chapter-10.md
+chapter-11.md
