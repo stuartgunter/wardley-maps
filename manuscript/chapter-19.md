@@ -1,4 +1,4 @@
-# On playing chess {#chapter-19}
+# Chapter 19: On playing chess {#chapter-19}
 
 In this chapter, I'm going to introduce some basic concepts that we will use and expand upon when exploring the issue of strategy itself. These concepts include stepping stones, use of policy, nature of capital and finding a balance.
 

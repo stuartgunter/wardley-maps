@@ -1,4 +1,4 @@
-# Exploring the map {#chapter-03}
+# Chapter 3: Exploring the map {#chapter-03}
 
 Hurray, we've got a map! What now? The purpose of producing a map is to help us to learn and then apply basic climatic patterns, doctrine and context specific forms of gameplay. Maps are our learning and communication tool for discovering these things and enabling us to make better decisions before acting. However, the strategy cycle is iterative and we're not going to learn all the patterns the first time we use a map any more than we learn everything about Chess in our first game. Instead, like a game of chess then play by play, move by move we're going to get a little bit better.
 

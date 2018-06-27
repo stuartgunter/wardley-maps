@@ -1,4 +1,4 @@
-# Finding a new purpose {#chapter-07}
+# Chapter 7: Finding a new purpose {#chapter-07}
 
 It was 2007, I was at home and I was unemployed. I twiddled my thumbs for a couple of days, did some DIY and then set about thinking on my future. This is code for watching my bank balance plummet whilst not doing anything useful. I was exhausted, running a company, inspiring a future and being broadsided had taken its toll. However, whilst I wasn't ready to immerse myself into a new role, I couldn't just sit idle. So, I undertook a few paid speaking gigs, did some advisory work, wrote a few articles, ghost wrote a few more and researched. At least, it would keep the wolves at bay for a bit.
 

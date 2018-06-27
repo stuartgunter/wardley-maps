@@ -1,4 +1,4 @@
-# To thine own self be true {#chapter-14}
+# Chapter 14: To thine own self be true {#chapter-14}
 
 The hardest thing about mapping is coming to terms with a simple fact that there is no right answer. Mapping enables you to observe the environment, the constant flow of evolution and moves of other players but it won't tell you what to do. There are alas no simple steps for you to follow to success. There are no plans that guarantee to bring you a fortune. I face this obstacle regularly when companies ask *"how will mapping benefit me"* to which the answer that *"it depends upon what you observe and then what you do"* is seldom welcome. They often want the concrete, the definite and a world of levers you can pull or buttons you can press. I long to say *"By turning this mapping dial you will save 12% of costs"* or *"press the mapping button to increase your rates of successful innovation by 34%"* but it just isn't true. The benefits are context specific and they depend upon you.
 

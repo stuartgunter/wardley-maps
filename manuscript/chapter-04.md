@@ -1,4 +1,4 @@
-# Doctrine {#chapter-04}
+# Chapter 4: Doctrine {#chapter-04}
 
 I had created my first map and applied an understanding of some basic climatic patterns that might influence it. These patterns were the ones that I could not stop but I could anticipate. Whether I liked it or not the components on my map would evolve through the actions of the market. However, whilst I had no choice over the market that didn't mean I had no choice over my actions. I might be able to influence the landscape through action, I could decide how I organised myself, the principles that I emphasised within the company and our manner of operating.
 

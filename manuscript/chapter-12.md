@@ -1,4 +1,4 @@
-# The scenario {#chapter-12}
+# Chapter 12: The scenario {#chapter-12}
 
 You are a member of the executive board of a huge conglomerate focused on facilities management. You're attending a meeting of a wholly owned subsidiary company with their executives. You're on a fact finding mission, trying to determine what the future of this subsidiary is.
 

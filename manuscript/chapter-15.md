@@ -1,4 +1,4 @@
-# On the practice of scenario planning {#chapter-15}
+# Chapter 15: On the practice of scenario planning {#chapter-15}
 
 One difficulty that people face with the Phoenix scenario outlined in the previous chapters is the question of role. It's not unusual to look at the scenario and its corresponding plays such as *"pig in a poke"* and ask what happens to the people? A common retort is *"leadership is all about people and the leader should sacrifice themselves for their people"*. It's a noble idea.
 

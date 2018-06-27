@@ -1,4 +1,4 @@
-# Something wicked this way comes {#chapter-13}
+# Chapter 13: Something wicked this way comes {#chapter-13}
 
 It maybe unlucky for some but I'm going to start this chapter 13 by announcing that I'm not going to give you an answer to the scenario — yet. Instead, I'm going to give you some analysis just in case you're needing a bit of help. If you're some wizard that has already worked through the scenario, determined the *right* strategy and have a solution then that's fine, you can skip *unlucky 13* and head straight into the next chapter. This is more for the rest of us mere mortals, who like me, have found themselves totally lost when faced with problems such as the scenario. I'm not going to use any additional information other than that already provided — in other words, there's no mystery character inserted in the last paragraph that committed the crime, see all those loathsome detective novels that make you go *"where did that come from?"*
 

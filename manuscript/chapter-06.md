@@ -1,4 +1,4 @@
-# Getting started {#chapter-06}
+# Chapter 6: Getting started {#chapter-06}
 
 I often talk about that wise executive that I met in the Arts hotel of Barcelona. I'll jump ahead in the story and let you into a little secret. He didn't have a clue either and I wasn't the only person faking at being an executive. However, I didn't find this out until six years after I had started mapping when someone pointed it out to me. I had always assumed that there was some secret tome out there and mapping was just my poor man's way of emulating what everyone else was already doing. It turned out that most of the industry was instead fighting battles with little to no understanding of the landscape. It's like generals fighting without maps. It boils everything down to luck and individual heroism.
 

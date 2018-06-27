@@ -1,4 +1,4 @@
-# I wasn't expecting that {#chapter-10}
+# Chapter 10: I wasn't expecting that {#chapter-10}
 
 I was in a quandary. Having described the three states of war, wonder and peace then I found myself in the unusual position of finding them everywhere. All activities seemed to show these three competitive states. However, I had no real way of testing the existence of these states and my ability to perceive them might be caused by some sort of bias? It's bit like owning a Mini Cooper, once you have one then you suddenly notice how many other cars are Mini Coopers. I started to scout around for some means of testing these concepts. Did the states really exist? How could I test them? Do they just effect individual activities in industries or could they have a wider effect?
 

@@ -1,4 +1,4 @@
-# Better for Less {#chapter-18}
+# Chapter 18: Better for Less {#chapter-18}
 
 ## All change please
 

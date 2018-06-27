@@ -1,4 +1,4 @@
-# The play and a decision to act {#chapter-05}
+# Chapter 5: The play and a decision to act {#chapter-05}
 
 In chapters one to four I've covered the [basics of mapping](#chapter-02), [common economic patterns](#chapter-03) and [doctrine](#chapter-04). However, these Wardley maps of business don't tell you what to do any more than a geographical map tells an Admiral how to win a battle. The maps are simply a guide and you have to decide what move you're going to make, where you're going to attack and how you navigate your ship through the choppy waters of commercial competition. In other words, you have to apply thought, decide to act and then act. In this chapter we're going to cover my journey through this part of the strategy cycle — see figure 46.
 

@@ -1,4 +1,4 @@
-# Charting the future {#chapter-09}
+# Chapter 9: Charting the future {#chapter-09}
 
 Most people don't have a desire to learn mapping for the sake of it. Instead, what people are looking for is a way to create advantage either through learning of context specific play (i.e. outsmarting others), the application of doctrine (i.e. being more effectively organised than others) or anticipation of change (i.e. seeing change before others). Back in early 2008, I had become quite a dab hand at using maps and common economic changes (i.e. climatic patterns) to anticipate change in business. I was regularly invited to speak at huge events and published articles in which I would declare that over the next decade we would see :-
 

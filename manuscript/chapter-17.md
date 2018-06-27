@@ -1,4 +1,4 @@
-# To infinity and beyond {#chapter-17}
+# Chapter 17: To infinity and beyond {#chapter-17}
 
 I was working on the use of printed electronics with paper (think of digital interactivity within a normal book) when I got that phone call from a friend about *"this spaceman who really wants to meet you"*. I was curious, so I went along to meet someone called Mark at Canonical. I didn't know what to expect. The first few minutes were certainly interesting.
 
