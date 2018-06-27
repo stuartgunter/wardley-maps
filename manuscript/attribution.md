@@ -1,6 +1,6 @@
 # Attribution
 
-This ebook contains the original work of [Simon Wardley](https://medium.com/@swardley), a researcher for the [Leading Edge Forum](https://leadingedgeforum.com/). The [original content](https://medium.com/wardleymaps) has been publishe on Medium under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. The same license has been applied to this ebook, as well as the [GitHub repository](https://github.com/stuartgunter/wardley-maps) that is used to produce it.
+This ebook contains the original work of [Simon Wardley](https://medium.com/@swardley), a researcher for the [Leading Edge Forum](https://leadingedgeforum.com/). The [original content](https://medium.com/wardleymaps) has been published on Medium under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. The same license has been applied to this ebook, as well as the [GitHub repository](https://github.com/stuartgunter/wardley-maps) that is used to produce it.
 
 I have tried to fairly represent all parties involved in producing this material and have used the footer on the original Medium posts as the source for this attribution. If any errors or omissions are discovered, please raise a PR or Issue so it can be rectified.
 
