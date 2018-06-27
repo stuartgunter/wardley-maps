@@ -4,13 +4,13 @@ It was 2007, I was at home and I was unemployed. I twiddled my thumbs for a coup
 
 I was convinced that there was some mileage in the mapping concept but I had two major problems. First, I had failed to create that bright future with it. Second, I had no real evidence to support it. I had collected data that hinted components evolved but the evolution axis was no more than a pattern that I had observed and talked about at Euro Foo in 2004. Maybe it was completely wrong? Maybe that's why I failed? Maybe that's why no-one else seemed to be talking about these concepts? I decided my library wasn't big enough to answer these questions and became a reader at the British Library. I collected, collated and trawled through a huge volume of written work in pursuit of my answers. At the very least, I was keeping myself busy and providing time to recoup.
 
-As I read more into the subject of strategy then I noticed that disquiet over the field was palpable. Phil Rosenzweig, in the Halo Effect (2007) pointed to the cause being a marriage of convenience: *"Managers are busy people, under enormous pressure to deliver higher revenues, greater profits and ever larger returns for shareholders. They naturally search for ready-made answers, for tidy plug-and-play solutions that might give them a leg up on their rivals. And the people who write business books — consultants and business school professors and strategy gurus — are happy to oblige."*
+As I read more into the subject of strategy then I noticed that disquiet over the field was palpable. Phil Rosenzweig, in the Halo Effect (2007) pointed to the cause being a marriage of convenience: *"Managers are busy people, under enormous pressure to deliver higher revenues, greater profits and ever larger returns for shareholders. They naturally search for ready-made answers, for tidy plug-and-play solutions that might give them a leg up on their rivals. And the people who write business books — consultants and business school professors and strategy gurus — are happy to oblige."*
 
 I wanted to change this, to somehow give people the tools they needed to learn themselves by exposing that secret tome of strategy to everyone. I wanted to be free of this marriage of convenience. I still believed there was a secret tome back in 2007 and that it was probably guarded in the halls of business schools. I started to think about doing an MBA, shuddered at the expense and borrowed copious notes and books from friends who had. However, I was disappointed. Beyond basic concepts in financial, marketing and operational "strategy" there was no discussion of landscape or context. Maybe the tome was guarded in the halls of strategy consultancies themselves?
 
-I applied for a job with one of the more prestigious consultancy firms and I was invited to a competitive interview process with dozens of other candidates. We would be put through our paces in a number of rounds in a Darwinian battle, a survival of the fittest. In my first round I was asked a question — "A news media company is looking at divesting itself of its print and distribution business. What things should it consider?"
+I applied for a job with one of the more prestigious consultancy firms and I was invited to a competitive interview process with dozens of other candidates. We would be put through our paces in a number of rounds in a Darwinian battle, a survival of the fittest. In my first round I was asked a question — "A news media company is looking at divesting itself of its print and distribution business. What things should it consider?"
 
-I immediately starting mapping out the landscape, pointing to opportunities and impacts from loss of control through disposal of such physical capital to provision of distribution as a public utility to redirecting print capabilities into printed electronics — *"those large scale printers have the potential to be tomorrow's Intel I declared!"* There was a wealth of opportunity but before making a choice then we needed to understand the landscape more. I started to dig, asking questions about the user, their needs and what did we understand about the landscape. I met a wall of silence followed by the line that *"it's not relevant"*. The company had already decided to take this action. It was part of its strategy. My role was to give some input into how to achieve this. I asked what was this strategy based upon and an argument ensued. Needless to say, I didn't make it past round one and was the very first to leave the competition. Mapping had failed on its second outing. So I carried on researching.
+I immediately starting mapping out the landscape, pointing to opportunities and impacts from loss of control through disposal of such physical capital to provision of distribution as a public utility to redirecting print capabilities into printed electronics — *"those large scale printers have the potential to be tomorrow's Intel I declared!"* There was a wealth of opportunity but before making a choice then we needed to understand the landscape more. I started to dig, asking questions about the user, their needs and what did we understand about the landscape. I met a wall of silence followed by the line that *"it's not relevant"*. The company had already decided to take this action. It was part of its strategy. My role was to give some input into how to achieve this. I asked what was this strategy based upon and an argument ensued. Needless to say, I didn't make it past round one and was the very first to leave the competition. Mapping had failed on its second outing. So I carried on researching.
 
 It was at this time that I was also becoming quite well known in certain technology circles as a speaker on open source, web 2.0 and cloud computing. I kept being invited to more and more conferences and to present and discuss on technology changes within companies. I was flattered but quickly discovered that I needed to keep things simple. I was told the mapping concepts were just *"too confusing"* and so I restricted myself to talking about the impacts in more general terms. However, here I hit a snag. General concepts such as the world moving towards more utility provision of IT were often brushed aside for lacking any understanding of *"real business"* and the maps I needed to demonstrate why this would happen were considered *"too confusing"*. I felt increasingly trapped in a Paul Valéry paradox of *"Everything simple is false. Everything which is complex is unusable"*. I found myself sitting in rooms listening to conversations of the form: -
 
@@ -50,33 +50,33 @@ I needed to demonstrate or disprove the concept of evolution in technology and m
 
 Being mindful of this purpose, I could now start thinking about the potential users of mapping and try to define what their needs might be. The users would need some way of exploiting mapping, some way of learning how to map given the complexity of the topic and also some sort of confirmation or validation that mapping was based upon something sensible. There was a chain of needs from purpose to user need (the very anchor of mapping) which I've drawn in figure 67.
 
-![Figure 67 — Purpose](images/figure-67.jpeg)
+![Figure 67 — Purpose](images/figure-67.jpeg)
 
 Given I had user needs then the very least I could do was map out that environment. Taking the user need of "Confidence that mapping can benefit us"from above then I've created a map of what is involved in figure 68. I'll use this to describe some particular points on mapping itself. One thing you will notice is the x-axis that I'm using here is slightly different. Whilst I normally just use the descriptions for activities (genesis to commodity), in this case because we're talking about knowledge then I'll add those descriptions for the different stages of evolution. For more on the terms used when describing evolution see figure 10 ([chapter 2](#chapter-02)).
 
-![Figure 68 — A map of mapping](images/figure-68.jpeg)
+![Figure 68 — A map of mapping](images/figure-68.jpeg)
 
 From the map above;
 
-**Point 1** — From "confidence that mapping can benefit us" then we had two high level user needs which were a means to learn mapping and some form of validation.
+**Point 1** — From "confidence that mapping can benefit us" then we had two high level user needs which were a means to learn mapping and some form of validation.
 
-**Point 2** — learning mapping requires not only the ability to create a map of the landscape but to understand common economic patters, doctrine and even context specific gameplay. Whilst common economic patterns are often discussed in a multitude of economic sources, the issue of context specific gameplay is fairly unique and rarely covered.
+**Point 2** — learning mapping requires not only the ability to create a map of the landscape but to understand common economic patters, doctrine and even context specific gameplay. Whilst common economic patterns are often discussed in a multitude of economic sources, the issue of context specific gameplay is fairly unique and rarely covered.
 
-**Point 3** — the map itself is based upon user needs (anchor) which is reasonably well discussed, a value chain (position) which itself is a common topic in business books but also evolution (movement). This last topic was rarely discussed back in 2007 other than in vague and hand waving notions. There were certainly concepts and competing hypothesis on how things evolved but no clear definitive path.
+**Point 3** — the map itself is based upon user needs (anchor) which is reasonably well discussed, a value chain (position) which itself is a common topic in business books but also evolution (movement). This last topic was rarely discussed back in 2007 other than in vague and hand waving notions. There were certainly concepts and competing hypothesis on how things evolved but no clear definitive path.
 
 One of the first things that struck me was that there existed a chain of needs above my users. When I am a supplier of a component to others (e.g. providing nuts and bolts to a car manufacturer) then my map extends into their map. However, my map also extends into my own purpose and my own needs. In other words, any map is part of a wider chain of needs.
 
 In figure 69, I've drawn an extended map from my purpose and my needs through to my user and their needs. I've reverted back to the more typical x-axis because you should be familiar that multiple types (activities, practices, data and knowledge) can be used on a map and it makes it less busy to just to show evolution terms for activities rather than all.
 
-![Figure 69 — The chain](images/figure-69.jpeg)
+![Figure 69 — The chain](images/figure-69.jpeg)
 
 From the map above;
 
-**Point 1** — we have my needs i.e. my purpose, my scope and my moral imperative. This is my **why of purpose** expressed as a chain of needs e.g. be the world's best tea shop or teach everyone to map. Naturally, I'd hope that my purpose would lead to others doing something and hence there would be users. In 2007, my scope was relatively novel as few seemed to be talking about mapping. However, my imperative wasn't quite so unique. There were many rallying against the imposed consultancy industry.
+**Point 1** — we have my needs i.e. my purpose, my scope and my moral imperative. This is my **why of purpose** expressed as a chain of needs e.g. be the world's best tea shop or teach everyone to map. Naturally, I'd hope that my purpose would lead to others doing something and hence there would be users. In 2007, my scope was relatively novel as few seemed to be talking about mapping. However, my imperative wasn't quite so unique. There were many rallying against the imposed consultancy industry.
 
-**Point 2** — whilst I hadn't expressed this before, I had an unwritten need to survive, to make revenue and a profit. This is a very common and well understood need. In my case, I hoped that I could achieve this by meeting my users' needs of either teaching them how to map or helping them create advantage over others.
+**Point 2** — whilst I hadn't expressed this before, I had an unwritten need to survive, to make revenue and a profit. This is a very common and well understood need. In my case, I hoped that I could achieve this by meeting my users' needs of either teaching them how to map or helping them create advantage over others.
 
-**Point 3** — my users had needs themselves. If my needs (i.e. purpose) didn't fit in some way with the needs of my users, then this mismatch was likely to cause problems. For example, if my highest purpose was to make profit rather than explain topographical intelligence, then I would be focusing on extracting money from my users (this is not one of their core needs) rather than providing a means of learning mapping and creating advantage (which is a core user need). You should always strive to generate revenue and profit as a direct consequence of meeting users' needs and providing value to them.
+**Point 3** — my users had needs themselves. If my needs (i.e. purpose) didn't fit in some way with the needs of my users, then this mismatch was likely to cause problems. For example, if my highest purpose was to make profit rather than explain topographical intelligence, then I would be focusing on extracting money from my users (this is not one of their core needs) rather than providing a means of learning mapping and creating advantage (which is a core user need). You should always strive to generate revenue and profit as a direct consequence of meeting users' needs and providing value to them.
 
 There are few other subtler things worth noting about the map above. First, my purpose is part of a chain of needs and as such it is influenced by the underlying components as they evolve. Over time, if mapping and the related activities become more industrialised then a scope of "demonstrate the concepts of evolution and mapping" ceases to be relevant. Even my moral imperative might disappear if the world becomes one where everyone maps, learns about their environment and has rebelled against management consultants with their 2x2s. If you think back to the strategy cycle, this is simply a reflection of the issue that as you act, as your landscape changes then your purpose, scope, moral imperative and even how you survive have to adapt. Nothing is permanent.
 
@@ -88,7 +88,7 @@ The final issue is the balancing act between different user needs. I thought I h
 
 This concept of conflict between user needs is worth exploring a bit more. Let us take a trawl back through time and imagine you're the boss of a hypothetical gun company just when the market is learning how to industrialise mechanical components. We're moving away from the world of highly customised mechanical components built by a cottage industry to having things like more uniform pipes and bolts. Let us imagine that you've taken a bold move and started to buy more standard bolts and pipes (for barrels). You then use these components in the manufacture of your guns by combining them with your skills and practice as gunsmiths. I've highlighted this in a map in figure 70. Remember, it's a hypothetical and I've no idea how to actually make a gun.
 
-![Figure 70 — The hypothetical gun company](images/figure-70.jpeg)
+![Figure 70 — The hypothetical gun company](images/figure-70.jpeg)
 
 You are the gun company (**point 1**) and you're reliant upon bolts (**point 2**) from a company that manufactures them (**point 3**). The first thing to note is that a map can cover many different organisations if you wish. Each of those organisations could be expanded into, providing more detail. When you map an environment then you're only ever looking at a fraction of a vast chain of needs. Hence the importance of defining a scope that is tangible rather than attempting to create a perfect map of an entire industry right down to every knob and whistle. You will learn over time how to simplify maps but to begin with, keep your ambitions small. Think small! As in know the details (see [chapter 4, doctrine](#chapter-04)).
 
@@ -102,7 +102,7 @@ Fortunately, context specific forms of gameplay aren't just one thing. If I taug
 
 I've drawn this map up in figure 71 below. Whilst teaching mapping will ultimately industrialise (**point 1**) there is also a constant pipeline of gameplay (**point 2**) with new forms of gameplay emerging. I could create a business, with a strong purpose and though it would have to adapt as components changed, there would be other opportunities for me to exploit. Even if I open sourced the mapping method to encourage it to spread (which I did by making it all creative commons) then I knew that I could create a future as an ***"arms dealer"*** of gameplay.
 
-![Figure 71 — Mapping the landscape.](images/figure-71.jpeg)
+![Figure 71 — Mapping the landscape.](images/figure-71.jpeg)
 
 There was a weakness however to this plan caused by **point 3**. The whole play would depend upon some sort of validation of mapping and at that time, I had nothing to back up my evolution axis, no success stories and no volume of users. I also needed users with success stories to entice other users because like it or not, the mantra of *"67% of other generals bomb hills, I should learn to bomb a hill"* dominates our industry. It was a chicken and the egg moment (p.s. the answer is egg) and I had nothing to encourage someone to try.
 
@@ -114,11 +114,11 @@ In his 1962 book on the Diffusion of Innovation, Everett Rogers explained a theo
 
 Before we continue, there's often some confusion between diffusion curves and Moore's presentation of this. I don't know why, one is purely the sum of the other.
 
-![Figure 72 — Diffusion curves and Moore's crossing the chasm](images/figure-72.jpeg)
+![Figure 72 — Diffusion curves and Moore's crossing the chasm](images/figure-72.jpeg)
 
-It seemed self-obvious to me at that time that if something diffused, crossing the chasm on the way to the mass majority then it would become more of a commodity. All I had to do was find at what percentage of adoption did things on a diffusion curve start to evolve i.e. at what percentage did it become a product or a commodity? — see figure 73.
+It seemed self-obvious to me at that time that if something diffused, crossing the chasm on the way to the mass majority then it would become more of a commodity. All I had to do was find at what percentage of adoption did things on a diffusion curve start to evolve i.e. at what percentage did it become a product or a commodity? — see figure 73.
 
-![Figure 73 — When does a diffusing thing evolve?](images/figure-73.jpeg)
+![Figure 73 — When does a diffusing thing evolve?](images/figure-73.jpeg)
 
 Unfortunately, as simple as it sounded, any analysis of data shows that figure 73 is just plain wrong. You cannot take a diffusion curve and slap on evolution. If you take something like a smartphone and ask people whether it's a product or more of a commodity, then today you'll probably get a range of answers and some disagreement. However, there are more smart phones in the US than people, so we can say it's widely diffused despite a lack of clarity over whether it's a product or a commodity. But, if I ask people whether a gold bar is a commodity then they'll say yes. This is bizarre because only a tiny fraction of the population actually own gold bars. On one hand, you have a thing which is diffused but not a commodity whilst on the other hand you have something which is uncommon but is a commodity.
 
@@ -128,7 +128,7 @@ To make matters worse I was in the middle of a very visible evolution of computi
 
 Even today, in 2016, some nine years later then I still see "business gurus" take diffusion curves and start slapping on evolution characteristics. Here it's "innovation" and here it's a "commodity". I tend to ask them to demonstrate this and I get the usual reply of *"well, it's obvious"*. Alas, it's not and the "it's obvious" turns out to be unsubstantiated. If you're feeling evil then you can test this yourself. Just ask *"How many years from innovation to commodity"* and they'll normally reply *"it's variable"*. Then ask *"At what % adoption does something become a commodity?"* and they'll normally reply *"it's variable"*. Then ask *"well, if it's variable in terms of time and adoption then how have you put a marker on a graph of time and adoption?"* ... this should make a suitably uncomfortable moment. It's not that these gurus are daft but instead it's incredibly easy to fall into that "well, it's obvious" state of mind.
 
-Back in 2007, my problem was that I had also been lulled into the same confident belief that we somehow understood the process of change and it was *"obvious"*. The popular view tends to be that innovations appear somewhat randomly, either through the efforts of a group of people or often by happenstance e.g. a fortuitous accident such as the discovery of inkjets through the placing of a hot syringe in a well of ink. These innovations then diffuse as above, some succeeding and crossing the chasm whilst others fail. We often have competing examples — AC vs. DC electricity or BetaMax vs. VHS — until one becomes more established and dominant. Over time, the same innovation becomes a commodity. It feels simple and logical.
+Back in 2007, my problem was that I had also been lulled into the same confident belief that we somehow understood the process of change and it was *"obvious"*. The popular view tends to be that innovations appear somewhat randomly, either through the efforts of a group of people or often by happenstance e.g. a fortuitous accident such as the discovery of inkjets through the placing of a hot syringe in a well of ink. These innovations then diffuse as above, some succeeding and crossing the chasm whilst others fail. We often have competing examples — AC vs. DC electricity or BetaMax vs. VHS — until one becomes more established and dominant. Over time, the same innovation becomes a commodity. It feels simple and logical.
 
 However, the rate of diffusion is not constant and we cannot measure the change of evolution over adoption or time. Furthermore, whatever process was occurring was not always continuous. As highlighted by Christensen's work on disruptive innovation, an existing industry can be disrupted by the introduction of a new technology that offers different performance attributes from those established. In other words, the diffusion of one thing can be substituted for another. For example, hydraulic excavators disrupted cable excavators and its associated suppliers. However, the same process could also be continuous. These innovations could be improving and sustaining e.g. a better car, a better phone, a better computer or a more efficient means of steel manufacturing such as the Bessemer convertor.
 
@@ -163,9 +163,9 @@ Maybe I had just got stuck on trying to tie diffusion of innovation to evolution
 
 ## Uncertainty is the key
 
-I started to think in terms of multiple diffusion curves. Let us take an activity, we shall call it A — it could be television or the telephone, it doesn't matter. Now let us assume this activity will evolve through several versions — A1, A2, A3, A4 and A5. Each version might be disruptive or sustaining to the previous and each will diffuse on its own diffusion curve — see figure 74.
+I started to think in terms of multiple diffusion curves. Let us take an activity, we shall call it A — it could be television or the telephone, it doesn't matter. Now let us assume this activity will evolve through several versions — A1, A2, A3, A4 and A5. Each version might be disruptive or sustaining to the previous and each will diffuse on its own diffusion curve — see figure 74.
 
-![Figure 74 — evolution through multiple waves of diffusion.](images/figure-74.jpeg)
+![Figure 74 — evolution through multiple waves of diffusion.](images/figure-74.jpeg)
 
 Whilst each version of the act diffuses to 100% adoption of its market, those applicable markets could be different sizes for different versions. Hence the market for the first phones might not be the same market for later, more evolved phones. The time for diffusion of each version could also be different.
 
@@ -179,29 +179,29 @@ With evolution, we had the more chaotic world of the novel and new with high deg
 
 I headed back to the Library. I spent many months reading and trying to determine a measure for the certainty for an act. I was collecting all sorts of journals and categorising them when suddenly I noticed something odd. To be a bit more specific, I suddenly woke up one morning with this idea.
 
-It was by looking into the detail of journals and papers on various activities that I had noticed how the words they used had started to change. They always started talking about the "wonder" of some new thing such as the "wonder of television" but over time it became more about "use". I then took 9,221 articles related to various activities and categorised those articles into four main stages based upon the words they used. I then plotted the frequency of publications — see figure 76.
+It was by looking into the detail of journals and papers on various activities that I had noticed how the words they used had started to change. They always started talking about the "wonder" of some new thing such as the "wonder of television" but over time it became more about "use". I then took 9,221 articles related to various activities and categorised those articles into four main stages based upon the words they used. I then plotted the frequency of publications — see figure 76.
 
-![Figure 76 — Changing nature of publications](images/figure-76.jpeg)
+![Figure 76 — Changing nature of publications](images/figure-76.jpeg)
 
 To begin with, articles would discuss the wonder of the thing e.g. the wonder of radio. This would then be replaced with articles discussing building, construction and awareness e.g. how to build your own radio. These would then be replaced by articles discussing operation, maintenance and feature differentiation e.g. which radio is best. Finally, it would become dominated by use e.g. the Radio Times and what programs to listen to. Using stage II & III publications I developed a certainty scale.
 
-I felt I was getting close to something but I still couldn't quite describe how evolution worked or why? I'm not sure what possessed me to do this, it was another one of those sleepless nights but I started to question if I could connect certainty to the applicable market and somehow work out the ubiquitous market? Obviously I could only do that for things which had already become a commodity. So, for various activities I marked a point of stability (I described this as 100% certain), the moment when publications changed from being dominated by operations, maintenance and feature differentiation to being dominated by use — see figure 77
+I felt I was getting close to something but I still couldn't quite describe how evolution worked or why? I'm not sure what possessed me to do this, it was another one of those sleepless nights but I started to question if I could connect certainty to the applicable market and somehow work out the ubiquitous market? Obviously I could only do that for things which had already become a commodity. So, for various activities I marked a point of stability (I described this as 100% certain), the moment when publications changed from being dominated by operations, maintenance and feature differentiation to being dominated by use — see figure 77
 
-![Figure 77 — The point of stability](images/figure-77.jpeg)
+![Figure 77 — The point of stability](images/figure-77.jpeg)
 
-Then I would take the time that this occurred (T1) and look up the applicable market for that activity at that time. I defined that applicable markets as the point of ubiquity (i.e. 100% ubiquitous) — see figure 78. I did this for radios, for TVs and all sorts of other common appliances.
+Then I would take the time that this occurred (T1) and look up the applicable market for that activity at that time. I defined that applicable markets as the point of ubiquity (i.e. 100% ubiquitous) — see figure 78. I did this for radios, for TVs and all sorts of other common appliances.
 
-![Figure 78 — The point of ubiquity](images/figure-78.jpeg)
+![Figure 78 — The point of ubiquity](images/figure-78.jpeg)
 
 All of these markets were different sizes and different percentages of adoption and there was no obvious connection. At first I was disappointed but then I was just stumbling in the dark and didn't know what I was looking for. By pure chance, whilst experimenting around with this, I took a wild stab and decided to plot ubiquity versus certainty for a range of activities. I had defined a point as 100% certain on my certainty scale and I had a corresponding point of ubiquity. I could now trace back through history to determine how certain and ubiquitous an act was. This is what I did for a range of activities and finally plotted a graph of ubiquity versus certainty. The result is provided in figure 79.
 
-![Figure 79 — Ubiquity versus Certainty.](images/figure-79.jpeg)
+![Figure 79 — Ubiquity versus Certainty.](images/figure-79.jpeg)
 
 I spent several hours staring at the result trying to understand what it meant. It suddenly dawned on me that every activity seemed to be following the same path. There was a strong correlation here. I then went back and overlaid those different stages of publication onto the graph and extended both ends as activities emerge before people start writing about them and continue well after becoming a commodity. I also gave each stage a generic term e.g. product for stage III and commodity for stage IV. The result was the evolution curve in figure 80 that I published in various guises (e.g. Butler Group Review, Mar 2008, Why Nothing is Simple in Management) and spoke enthusiastically about at numerous conferences.
 
-![Figure 80 — The evolution curve.](images/figure-80.jpeg)
+![Figure 80 — The evolution curve.](images/figure-80.jpeg)
 
-Evolution begins with the genesis of an activity e.g. the first battery, the first phone, the first television or the first digital computer such as the Z3 in 1943. If it is successful, then it will diffuse in its applicable market. If it is useful then others will copy and custom-built examples of that activity will appear (e.g. systems such LEO — Lyons Electronic Office). They will also diffuse in what tends to be a larger applicable market. As the activity spreads through custom-built systems then pressure mounts for adoption and products are produced. These products themselves diffuse through an even wider market often with constant improvements or disruptive changes with each diffusing in turn and growing the market. As the act becomes more widespread and well understood alternative models of provision appear such as rental services. Eventually the act becomes so widespread and well defined it becomes "ubiquitous", well understood and more of a commodity. It will tend to be standardised with little feature differentiation between offerings. At this stage of volume operations then utility services are likely to have appeared especially if the the act is suitable for delivery by such a mechanism.
+Evolution begins with the genesis of an activity e.g. the first battery, the first phone, the first television or the first digital computer such as the Z3 in 1943. If it is successful, then it will diffuse in its applicable market. If it is useful then others will copy and custom-built examples of that activity will appear (e.g. systems such LEO — Lyons Electronic Office). They will also diffuse in what tends to be a larger applicable market. As the activity spreads through custom-built systems then pressure mounts for adoption and products are produced. These products themselves diffuse through an even wider market often with constant improvements or disruptive changes with each diffusing in turn and growing the market. As the act becomes more widespread and well understood alternative models of provision appear such as rental services. Eventually the act becomes so widespread and well defined it becomes "ubiquitous", well understood and more of a commodity. It will tend to be standardised with little feature differentiation between offerings. At this stage of volume operations then utility services are likely to have appeared especially if the the act is suitable for delivery by such a mechanism.
 
 There is no time or adoption axis on the evolution curve, only ubiquity (to its ubiquitous market) versus certainty. It may take ten years or a hundred for something to make its journey from genesis to commodity. It may become a commodity when 2% of the population own it or everyone has three. However, regardless of this, I know the path it will take. What causes things to take that journey turns out to be simple competition represented in two forms: -
 
@@ -235,7 +235,7 @@ It's also worth noting the hockey stick effect of the graph. When a novel activi
 
 For interest, this hockey stick pattern is similar to that found by Boiset, Canals and Macmillan in their simulation of I-Space using an agent-based approach to modelling knowledge flows. Their work looked at how knowledge spreads through economic and social systems by examining the interactions of agents (i.e. individuals). One of the things they demonstrated confirmed a previous expectation that knowledge is first abstracted and codified before it rapidly diffuses (see figure 81). The is the same pattern within my data where first our understanding and certainty over an activity increases (i.e. it is abstracted and codified) before it rapidly becomes widespread.
 
-![Figure 81 — Simulation of I-Space](images/figure-81.jpeg)
+![Figure 81 — Simulation of I-Space](images/figure-81.jpeg)
 
 The pattern of evolution that I used as the x-axis of my map had some sense of validity in history. I could with some confidence describe how things would evolve even though I couldn't say precisely when.
 
@@ -252,7 +252,7 @@ I've covered quite a few concepts & hypothesis in this chapter and to be honest,
 * Purpose, scope, moral imperative, survival and user needs can be connected in a chain of needs.
 * All will evolve and be effected by the chain they exist within. Nothing is permanent.
 * Scope should be tangible and easy to understand but you also need a moral imperative to enthuse people.
-* Aim to create revenue and profit — your need to survive — by meeting your users' needs.
+* Aim to create revenue and profit — your need to survive — by meeting your users' needs.
 * There is often a balancing act between different conflicting user needs.
 
 ### Landscape
@@ -261,7 +261,7 @@ I've covered quite a few concepts & hypothesis in this chapter and to be honest,
 * You can draw many organisations onto a single map. The value chain is only a guide and higher up the value chain simply means more visible to that user. You can always draw chains of users e.g. the user needs for a gun company breakdown into the user needs for a bolt company.
 * Maps are a communication tool. Don't be afraid to modify or clarify the terms on the axis if it helps in the discussion. Key is to keep within the bounds of what is a map, particularly position (e.g. value chain) and movement (e.g. evolution)
 * The map of mapping (figure 69) contains components which are also the axes of the map i.e. the idea of evolution is itself evolving along the evolution scale. Mapping can be applied to itself. It also means that these current maps are little more than Babylonian Clay Tablets. Someone will make a better map.
-* There are many different things which we call *innovation* — this includes **genesis** of an act, feature differentiation of a **product** and a shifting business model from product to utility. They are very different despite our use of a single term to describe them.
+* There are many different things which we call *innovation* — this includes **genesis** of an act, feature differentiation of a **product** and a shifting business model from product to utility. They are very different despite our use of a single term to describe them.
 
 ### Climate : Evolution
 
@@ -274,4 +274,4 @@ I've covered quite a few concepts & hypothesis in this chapter and to be honest,
 
 I've marked off the list of climatic patterns that we've covered so far in orange in figure 82. Before long we will be anticipating change like a professional.
 
-![Figure 82 — Climatic Patterns](images/figure-82.jpeg)
+![Figure 82 — Climatic Patterns](images/figure-82.jpeg)

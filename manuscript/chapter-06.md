@@ -18,15 +18,15 @@ In more recent years, I've even started to recommend that executives spend a mon
 
 **The importance of preparation.** There's no point turning upto the fight with an assortment of weapons if you don't know how to use them. The largest guilds in some of these MMORPGs have many hundreds to thousands of players supported with extensive wikis, communication mechanisms, training and development, tactical game plays, UI engineering, structure, leadership, specialist cells and information systems. These provide a systematic mechanism of learning.
 
-So, how does an MMORPG compare to business? In general, we don't have maps in business. Most companies suffer from poor situational awareness being caught out by predictable changes. The most telling factor here is that business strategy is normally a tyranny of action — how, what and when — as opposed to awareness — where and why. On the whole, we do a bit better at recognising that multiple aptitudes are needed. However, we often fall down by not considering attitude, the context and then compound this with isolation (operation in silos). We certainly try when it comes to team play, often having team building exercises which can be a bit hit or miss.
+So, how does an MMORPG compare to business? In general, we don't have maps in business. Most companies suffer from poor situational awareness being caught out by predictable changes. The most telling factor here is that business strategy is normally a tyranny of action — how, what and when — as opposed to awareness — where and why. On the whole, we do a bit better at recognising that multiple aptitudes are needed. However, we often fall down by not considering attitude, the context and then compound this with isolation (operation in silos). We certainly try when it comes to team play, often having team building exercises which can be a bit hit or miss.
 
-We also tend to complain about communication despite the plethora of tools available. This can usually be traced back again to poor situational awareness — if we don't know the landscape and fail to create a plan of attack based upon this, replacing instead with vague notions of vision or a story then it becomes difficult to communicate how things are actually going. It's far better that the question *"Where are you"* receives a response of a co-ordinate on a map than a response of *"I've just walked along a path, I'm by a tree and I can see lots of orcs. The sun is shining"*.
+We also tend to complain about communication despite the plethora of tools available. This can usually be traced back again to poor situational awareness — if we don't know the landscape and fail to create a plan of attack based upon this, replacing instead with vague notions of vision or a story then it becomes difficult to communicate how things are actually going. It's far better that the question *"Where are you"* receives a response of a co-ordinate on a map than a response of *"I've just walked along a path, I'm by a tree and I can see lots of orcs. The sun is shining"*.
 
 In fact, abundant communication mechanisms rather than efficient communication can itself become a problem without good situational awareness as new players constantly ask *"where should we go"* as they run around in a daze. This can take up valuable time from other team members and weaken your overall strength. Preparation itself is almost non-existent in corporates. In some areas we might attempt scenario planning and a few exec games about imagining you're a startup trying to disrupt your business but on the whole we're often so busy with immediate work such as firefighting and keeping up with competitors that we create little time to prepare.
 
 There's an awful lot to be said for learning about these aspects from online games. Anyone under the illusion that business is some bastion of strategic play should spend a few minutes watching an experienced group run an organised raid. Those people tend to use levels of strategic play and doctrine that most businesses can only dream of. Fortunately, in business we're often up against other organisations that equally lack situational awareness, suffer from isolation, have weak team play, ineffective but abundant communication and lack preparation.
 
-The effect is somewhat remarkably similar to a group of inexperienced World of Warcraft players just charging at each other with cries of *"Attack"* followed by *"Will someone heal me!"* An exciting brawl of chaos with often single participants — hero players, the Steve Jobs of your Elven army — making the difference. Of course, face either team or in fact both teams against an experienced and well-rehearsed group then it stops becoming a brawl and starts becoming a massacre. The healers get wiped first, followed by crowd control, tanks and then poor and undefended damage dealers.
+The effect is somewhat remarkably similar to a group of inexperienced World of Warcraft players just charging at each other with cries of *"Attack"* followed by *"Will someone heal me!"* An exciting brawl of chaos with often single participants — hero players, the Steve Jobs of your Elven army — making the difference. Of course, face either team or in fact both teams against an experienced and well-rehearsed group then it stops becoming a brawl and starts becoming a massacre. The healers get wiped first, followed by crowd control, tanks and then poor and undefended damage dealers.
 
 In the world of business, there are some really dangerous groups out there. Don't expect to go up against them with the usual *'Here's the vision, we've got great people ... now charge!'* approach. It's far more sensible to find a profitable exit in order to fight another day. That's a hint to those gaming companies starting to be concerned about Amazon's encroachment into their space with Lumberyard. Either start learning from your own online players or find a new industry to bunker down in. Finally, don't expect to just to read a few chapters on mapping or play a couple of games and an instantly transform into a master of strategy, there is a long journey ahead of you.
 
@@ -41,7 +41,7 @@ Mapping is not the answer, it's simply a guide. Hence don't try to create the pe
 When thinking about strategy, the first thing you need to do is identify **where** you can attack before **why** here over there. It' all about position (y-axis) and movement (x-axis).
 
 ***Iterative and continuous learning***
-The entire strategy cycle is iterative and you're going to have to follow the same path. Which means mapping is not going to be a one off exercise but something that happens all the time. Again the temptation is to map the entire landscape in some sort of *"Deathstar"* — large scale, all encompassing, doomed to fail — effort in order to create that perfect answer. You should instead embrace the uncertainty, think small and start somewhere (have a bias towards action). If you're using mapping and it's either taking a long time or doesn't seem to help answer any of your questions, then stop. Don't be afraid to find a better way of doing this. No model is perfect.
+The entire strategy cycle is iterative and you're going to have to follow the same path. Which means mapping is not going to be a one off exercise but something that happens all the time. Again the temptation is to map the entire landscape in some sort of *"Deathstar"* — large scale, all encompassing, doomed to fail — effort in order to create that perfect answer. You should instead embrace the uncertainty, think small and start somewhere (have a bias towards action). If you're using mapping and it's either taking a long time or doesn't seem to help answer any of your questions, then stop. Don't be afraid to find a better way of doing this. No model is perfect.
 
 ***Learn yourself***
 If you are responsible for strategy, then you need to learn to play the game yourself and take responsibility for it. I often give strategy consultants a hard time but this doesn't mean they don't have a use. Don't however rely on third parties to give you an answer, instead use them to help you challenge your strategy and to learn new forms of gameplay.
@@ -49,12 +49,12 @@ If you are responsible for strategy, then you need to learn to play the game you
 ***Terms***
 There are numerous terms associated with mapping. I'm often guilty of using them without clearly explaining to others, so in order to rectify this I've provided the most common in figure 60.
 
-![Figure 60 — Terms](images/figure-60.jpeg)
+![Figure 60 — Terms](images/figure-60.jpeg)
 
 ***Symbols***
 Maps are obviously visual and whilst they are far from the ordinance survey maps of geography, it's useful to have a common lexicon of symbols. In figure 61, I've provided the ones I use.
 
-![Figure 61 — Symbols](images/figure-61.jpeg)
+![Figure 61 — Symbols](images/figure-61.jpeg)
 
 ***A nod to early terms***
 Mapping itself has evolved over time hence the terms I used in the past are slightly different to the terms I use today. These cosmetic changes are purely to help refine the craft, the underlying meaning has remained constant.
@@ -63,7 +63,7 @@ Mapping itself has evolved over time hence the terms I used in the past are slig
 
 Most organisations have structures in place that can be used to embed mapping whether it's an architectural group or an office of the CEO or a business relationship function or some other home. Typically, in a distributed organisation then you normally have the business units that are responsible for delivery, some form of executive function that covers policy, approval and accountability and a common or shared services supply group that provides some element of commonality as per figure 62.
 
-![Figure 62 — Common structure](images/figure-62.jpeg)
+![Figure 62 — Common structure](images/figure-62.jpeg)
 
 However, the common components provided are often a bit hit or miss. Without a form of mapping then it's difficult to find what is duplicated and how it should be provided between the different business units. It will often degenerate into plucking things from the air. There also tends to be an element of political conflict between the business units and the shared services and in the worst cases the shared services function can be viewed as a hindrance.
 
@@ -91,17 +91,17 @@ To the question, shouldn't the co-ordination function be part of the executive f
 
 This entire book is dedicated to a process of continuous learning, however it's more important for me to demonstrate how to achieve this (the strategy cycle) rather than the specifics of particular patterns. Once you have the basics, you will learn the patterns for yourself. However, it's also worth me recapping as we go along this journey. In figure 64, I provided the basic patterns so far examined.
 
-![Figure 64 — Patterns covered](images/figure-64.jpeg)
+![Figure 64 — Patterns covered](images/figure-64.jpeg)
 
 ## The anti-pattern organisation
 
 I'm a great believer in using anti-patterns to examine the effect of not doing something. In this case, what are the anti-patterns for mapping? In general, they will be the reverse of the doctrine that is developed from mapping along with a failure to cope with climatic patterns and incorrect use of context specific play. We can use this to describe what an organisation that doesn't understand its landscape should looks like. I often use this as a way of analysing competitors but be careful, there's a whole topic of misdirection that we haven't touched upon yet. The anti-pattern organisation will look something like this.
 
 ***Fails to focus on user needs.***
-Has an inability to describe its user needs and often confuses its own needs — profitability, revenue, data acquisition — with those of its customers.
+Has an inability to describe its user needs and often confuses its own needs — profitability, revenue, data acquisition — with those of its customers.
 
 ***Fails to use a common language.***
-Uses multiple different ways of describing the same problem space e.g. box and wire diagrams, business process diagrams and stories. Often suffers from confusion and misalignment. None of the tools used will meet those basic characteristics of any map — visual, context specific, position (relative to an anchor), movement and components.
+Uses multiple different ways of describing the same problem space e.g. box and wire diagrams, business process diagrams and stories. Often suffers from confusion and misalignment. None of the tools used will meet those basic characteristics of any map — visual, context specific, position (relative to an anchor), movement and components.
 
 ***Fails to be transparent.***
 Has difficulty in answering basic questions such as *"How many IoT projects are we building?"* Information tends to be guarded in silos.

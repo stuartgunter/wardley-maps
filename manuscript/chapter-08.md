@@ -1,6 +1,6 @@
 # Keeping the wolves at bay {#chapter-08}
 
-To keep funding my research, I took a few more paid gigs which basically meant becoming a gun for hire. Cloud computing was colliding with the technology scene and there was lots of confusion about. Hence I had a constant stream of conferences — including some that actually paid — along with plenty of opportunity for piecemeal work. It was a wild west in computing with unfortunately some fairly shady practices and exploitation in the industry. I tried not to cause harm but I had an Achilles heel in simplicity.
+To keep funding my research, I took a few more paid gigs which basically meant becoming a gun for hire. Cloud computing was colliding with the technology scene and there was lots of confusion about. Hence I had a constant stream of conferences — including some that actually paid — along with plenty of opportunity for piecemeal work. It was a wild west in computing with unfortunately some fairly shady practices and exploitation in the industry. I tried not to cause harm but I had an Achilles heel in simplicity.
 
 ## The danger of making it simple
 
@@ -10,7 +10,7 @@ However, confusion over cloud computing had created an opportunity for a new way
 
 Hence I looked for ways to simplify mapping, to make it more palatable and more familiar. I started with spot painting. I'd take a business process diagram or a box and wire for an existing system, such as our Elvish self driving car in figure 36 ([chapter 4](#chapter-04)) and then colour different parts according to whether they were more genesis or commodity. I'd produce something like figure 83.
 
-![Figure 83 — "Spot" painting of an Elvish self driving car](images/figure-83.jpeg)
+![Figure 83 — "Spot" painting of an Elvish self driving car](images/figure-83.jpeg)
 
 Such annotated diagrams along with being colourful were more familiar and less threatening to the people who had written the originals. They enabled me to fairly easily introduce the concepts of evolution into an organisation and hence we could have a discussion about what methods to use. But without position and movement then these diagrams were unhelpful for effective challenge and continuous learning of economic patterns or forms of gameplay. There was a trade-off between simplicity and usefulness.
 
@@ -30,9 +30,9 @@ My salvation was a piece of paid work that I'm particularly fond of. It concerne
 
 ### Worth based development
 
-In 2003, the company that I ran built and operated small sized systems for others. There were no big systems, these were more of the £100k — £2M scale covering a few million users. Our clients usually wanted to write a detailed specification of exactly what they needed to ensure we delivered. That doesn't sound too bad but even at this small scale then some of the components in these projects would be in the uncharted space and hence no-one knew exactly what was wanted. Unfortunately, back then, I didn't have the language to explain this. Hence we built and operated the systems and inevitably we had some tension over change control and arguments over what feature was in or out of a particular contract.
+In 2003, the company that I ran built and operated small sized systems for others. There were no big systems, these were more of the £100k — £2M scale covering a few million users. Our clients usually wanted to write a detailed specification of exactly what they needed to ensure we delivered. That doesn't sound too bad but even at this small scale then some of the components in these projects would be in the uncharted space and hence no-one knew exactly what was wanted. Unfortunately, back then, I didn't have the language to explain this. Hence we built and operated the systems and inevitably we had some tension over change control and arguments over what feature was in or out of a particular contract.
 
-During one of these discussions, I pointed out to the client that we were sitting around a table arguing over a piece of paper but not one of us was talking about what the users needed. The contract wasn't really the customer here; the client's end users were. We needed to change this discussion and focus on the end user. I suggested that we should create a metric of value based upon the end user, something we could both work towards. The idea fell on deaf ears as the client was pre-occupied with the contract but at least the seed was planted. It wasn't long after this that another project provided an opportunity to test this idea. The client gave me a specification and asked how much would it cost to build? I replied — *"How does free sound?"*
+During one of these discussions, I pointed out to the client that we were sitting around a table arguing over a piece of paper but not one of us was talking about what the users needed. The contract wasn't really the customer here; the client's end users were. We needed to change this discussion and focus on the end user. I suggested that we should create a metric of value based upon the end user, something we could both work towards. The idea fell on deaf ears as the client was pre-occupied with the contract but at least the seed was planted. It wasn't long after this that another project provided an opportunity to test this idea. The client gave me a specification and asked how much would it cost to build? I replied — *"How does free sound?"*
 
 They were a bit shocked but then I added *"However, we will have to be paid to operate the system. We need to determine a measure of value or worth and I'll get paid on that"*. There was a bit of um and ah but eventually we agreed to try out a method of worth based development.
 
@@ -44,7 +44,7 @@ In three months we had generated more leads than the client normally had in a ye
 
 The problems were caused by the client being unprepared for this level of interest and internal budgeting systems that weren't designed to cope with such a variable success. What has budgeting got to do with this? Well, for the client then success was more leads which translated into more revenue. This was good from a budgeting point of view. But the more success the client had then the more my fee increased as it was also based on leads. This was bad from a budgeting point of view. The system became so successful that it exceeded an internal budget figure the client had set for costs and this caused an internal conflict with demands to switch off the system until new budget was allocated (a very lengthy process). Switch off a revenue generating system because it's doing better than expected and passed some arbitrary budget figure? This is what happens when an inflexible one size fits all approach of budgeting hits reality.
 
-Before you go "this is daft", actually it's not. Over time companies tend to build up a body of work and processes — the corporate corpus — designed to stop past failure. It's all done with reasonable intentions. The desire to spend money effectively and the desire to know resources are being well used. That mass of good intentions are often the cause of many problems when you try to change the system. That corpus can become a corpse, a zombie killing off innovation whenever it is found. I had attempted to change the system by introducing a worth based approach and I should have known that this would cause tensions with the corpus, in this case the budgeting system. I learned that lesson quickly.
+Before you go "this is daft", actually it's not. Over time companies tend to build up a body of work and processes — the corporate corpus — designed to stop past failure. It's all done with reasonable intentions. The desire to spend money effectively and the desire to know resources are being well used. That mass of good intentions are often the cause of many problems when you try to change the system. That corpus can become a corpse, a zombie killing off innovation whenever it is found. I had attempted to change the system by introducing a worth based approach and I should have known that this would cause tensions with the corpus, in this case the budgeting system. I learned that lesson quickly.
 
 I've used worth based approaches (often called "outcome") many times over the last decade, in fact I prefer them. Whilst they tend to solve the issue of an excessive focus on contracts, they have invariably hit other roadblocks such as a client not being able to describe a metric of value or the purpose of the system or even conflict and politics within internal processes. You need to be aware of this and to mitigate against it.
 
@@ -78,11 +78,11 @@ In figure 84, I've created a map of the worth based LFP project. I won't mark-up
 
 The map begins with our client who has a need for more leads and ultimately consumers buying their product. The conversion from lead to actually purchasing a printer is beyond the scope of this project as that was within the client's sales organisation. We're focused solely on generating leads. The other type of user in this map is the consumer who hopefully will buy one of these expensive printers. They have different needs, they want to find out about the right sort of printer for their commercial operations and to test it before buying something they will use. In this project, we're aiming to provide an online mechanism for the consumer to find out about the printer (a microsite) along with a method to test it (the testing application).
 
-The test is a high resolution image that the user uploads and which is then printed out using the printer of their choice. Their poster (this is large format) would then be distributed to the user along with a standard graphical poster (showing the full capabilities), relevant marketing brochures and a sales call arranged. The platform space — which was the source of my original headaches due to my inability to provide a variable operational cost for application use — is evolving towards more of a utility service.
+The test is a high resolution image that the user uploads and which is then printed out using the printer of their choice. Their poster (this is large format) would then be distributed to the user along with a standard graphical poster (showing the full capabilities), relevant marketing brochures and a sales call arranged. The platform space — which was the source of my original headaches due to my inability to provide a variable operational cost for application use — is evolving towards more of a utility service.
 
 So, let us assume we decide to use a utility platform. I'm now going to add some financial indicators onto this map. See figure 85.
 
-![Figure 85 — Financial indicators in the LFP project](images/figure-85.jpeg)
+![Figure 85 — Financial indicators in the LFP project](images/figure-85.jpeg)
 
 From the map, we hope to have users visit our microsite which would extol the benefits of owning a large format printer. This hopefully persuades some of these visitors to go and test it out. The act of turning a visitor into an actual lead requires the user to test a printer. So we have multiple conversion rates e.g. from microsite to testing application and from visitor to lead. At the start these will be unknown but we can guess.
 
@@ -94,7 +94,7 @@ This isn't the only path by which someone can print out a poster. The visitor mi
 
 When you look at any map, there can be many forms of flow within it whether financial or otherwise. It could be flows of revenue or flows of risk. For example, if the utility platform dies due to some catastrophic event then it'll impact my microsite and my testing application which will impact the consumer needs and stop any lead generation. This would incur a financial penalty for me in terms of lost revenue. Whereas, if I run out of brochures then this impacts distribution and I have a choice on whether to send out the prints now or delay until the brochures are available. In figure 86, I've given an example of a flow within a map from potential consumer through their need to microsite to testing application to distribution.
 
-![Figure 86 — Flow of the LFP project](images/figure-86.jpeg)
+![Figure 86 — Flow of the LFP project](images/figure-86.jpeg)
 
 It's important to note that the interfaces between components in a map represent these flows of capital whether physical, financial, information, knowledge, risk, time or social. It could be anything which we trade. Things are rarely free. Whenever you use a service then you're trading something whether it's information or social capital (e.g. loyalty to a scheme) or even just your time (e.g. to create new entries, to edit the content).
 
@@ -102,7 +102,7 @@ By using the concept of flow, it is relatively simple to build a financial model
 
 ![Figure 87— Building a financial model for LFP](images/figure-87.jpeg)
 
-This is like manna from heaven for someone trying to build a business. Certainly I have the investment in developing the code but with the application being a variable operational cost then I can make a money printing machine which grows with users. It also changes my focus on investment — do I want to invest in increasing marketing for more users, or the conversion rate, or maybe the testing application is so badly written (or a function within it) that investing in coding improvement will bring me better returns? Suddenly, the whole way I build a business and invest is changed.
+This is like manna from heaven for someone trying to build a business. Certainly I have the investment in developing the code but with the application being a variable operational cost then I can make a money printing machine which grows with users. It also changes my focus on investment — do I want to invest in increasing marketing for more users, or the conversion rate, or maybe the testing application is so badly written (or a function within it) that investing in coding improvement will bring me better returns? Suddenly, the whole way I build a business and invest is changed.
 
 Now back to when we originally built LFP in 2003. There wasn't a utility platform, I didn't have maps and I didn't have the concept of flow. Instead myself and my CFO had a mass of spreadsheets trying to calculate what the above did and cope with all the stepwise investments and capital costs needed. What was a nightmare in 2003 is child's play in 2016.
 
@@ -120,7 +120,7 @@ To overcome this issue of confidentiality, the next section covers a hypothetica
 
 Our story begins, as many do, with a challenge and unfortunately no maps. The company was expanding and needing to increase its compute resources. It had created a process flow diagram for this (figure 88) which involved a request for more compute to the actions needed to meet that demand.
 
-![Figure 88 — The process flow](images/figure-88.jpeg)
+![Figure 88 — The process flow](images/figure-88.jpeg)
 
 The process however had a bottleneck. Once servers were delivered at "goods in" they needed to be modified before being racked. This was time consuming and sometimes prone to failure. They were focused on improving the efficiency of the process flow as it was important for their future revenue generation. A proposal was on the table to invest in robotics to automate the process of modifying the servers. Whilst the proposal was expensive, the benefits were considerable especially given the significant future revenue that was at risk. A strongly positive ROI had been calculated.
 
@@ -128,23 +128,23 @@ I want you to consider the above for a moment and decide whether a proposal to i
 
 I had met the company, talked about the concept of evolution and it would be fair to say they had no interest in mapping. I had mentioned the "spot" diagram and we agreed to take a look at the proposal through this lens. I've taken those first same steps (see figure 89) and "spotted" the process. Whilst the ordering and goods in process were quite industrialised, the modify part of the process was very custom.
 
-![Figure 89 — Spot diagram of the process.](images/figure-89.jpeg)
+![Figure 89 — Spot diagram of the process.](images/figure-89.jpeg)
 
 It's important to take a break for a minute here and have a good look at the diagram above. Try and see if you notice anything interesting or odd before continuing with this story.
 
 I'm now going to turn the diagram above into a map and hopefully the problem will become clearer. Let us start from the user need of more compute. This actually has two needs, the ordering of a server and the racking of the server once it has been delivered. Apparently mounting the equipment (i.e. racking, adding power and cabling) needs modifications to be made to the server hence the companies interest in automation with robotics. Both of these chains are connected at the point of the "server" and "goods in". I've drawn this in figure 90 with both flows.
 
-![Figure 90 — Mapping the proposal](images/figure-90.jpeg)
+![Figure 90 — Mapping the proposal](images/figure-90.jpeg)
 
 Take another break for a minute here and have a good look at the diagram above. Try and see if you notice anything interesting or odd this time before continuing with this story.
 
 What is worth noting is the racks were considered custom. On investigation, the company had always used custom built racks and it even had a friendly company that made them for it. This was just part of its corporate corpus, a ghost from a long gone past that still haunted the place. If you asked the company why they were using custom built racks they'd tell you that this is what they've always done, it was how they worked and the racks were designed for them. They'd would also tell you that racks was irrelevant to the project at hand which was all about automation.
 
-However, dig a little bit more and we come to reason why the servers needed modification. It turns out that standard servers are designed to fit standard racks. They didn't fit the custom built racks that the company had so lovingly built. Hence additional plates needed to be added, holes drilled into the servers — this was the modification that was required. Let us be clear, on the table was a proposal to invest in robotics in order to *customise* standard servers in order that they fit into *custom* built racks which the company was buying. Does the proposal still make sense? Is it a good investment? Are there alternatives? Do I hear you shout *"use standard racks?"*
+However, dig a little bit more and we come to reason why the servers needed modification. It turns out that standard servers are designed to fit standard racks. They didn't fit the custom built racks that the company had so lovingly built. Hence additional plates needed to be added, holes drilled into the servers — this was the modification that was required. Let us be clear, on the table was a proposal to invest in robotics in order to *customise* standard servers in order that they fit into *custom* built racks which the company was buying. Does the proposal still make sense? Is it a good investment? Are there alternatives? Do I hear you shout *"use standard racks?"*
 
 Now the question is whether we should just use standard racks? This obviously moves racks towards the commodity (which is where they should be) and the modification part disappears though we still have mounting, cabling and power. It seems a lot better though (see figure 91).
 
-![Figure 91 — Using standard racks](images/figure-91.jpeg)
+![Figure 91 — Using standard racks](images/figure-91.jpeg)
 
 However, you still have a problem which is the legacy estate. Are you going to migrate all the racks? What about our sunk costs? How are we going to maintain our existing systems? There will be a long list of reasons to counter the proposed change. Before you go *"this is daft, we should just change"* remember the budget example, the corporate corpus and don't expect to change a system without some resistance.
 
@@ -183,12 +183,12 @@ In the last few chapters, we've been sneaking around the strategy cycle covering
 
 We've covered quite a bit of doctrine so far, I've highlighted this (in orange) in figure 93. Though we've skated over several other areas of doctrine, I do want to come back to them later in the book with a more formal examination.
 
-![Figure 93 — Doctrine](images/figure-93.jpeg)
+![Figure 93 — Doctrine](images/figure-93.jpeg)
 
-We've also mentioned an aspect of gameplay — **Trading**. Maps are a form of knowledge capital and they tend to have value. Don't expect people to just share them with you. You'll need to trade or create your own.
+We've also mentioned an aspect of gameplay — **Trading**. Maps are a form of knowledge capital and they tend to have value. Don't expect people to just share them with you. You'll need to trade or create your own.
 
 In the next section we will focus on climate including common economic patterns and anticipation.
 
 ## An exercise for the reader
 
-I'd like you to take some time and look at figure 93 — doctrine. Go through each of the sections marked in orange, re-read any chapters in this book that you need to and make sure you're familiar with them. Then ask yourself, does your company have these forms of doctrine? How do you implement them? If not, why not? What is stopping you?
+I'd like you to take some time and look at figure 93 — doctrine. Go through each of the sections marked in orange, re-read any chapters in this book that you need to and make sure you're familiar with them. Then ask yourself, does your company have these forms of doctrine? How do you implement them? If not, why not? What is stopping you?

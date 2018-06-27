@@ -8,21 +8,21 @@ However, to make the exercise still challenging then I've taking the liberty of 
 
 Activities, practices, data and knowledge all evolve and co-evolve in a process which is not always smooth or continuous. In chapter 10, we covered the peace, war and wonder cycle and how previous giants in a peaceful product phase of competition can be overtaken by new entrants in the "war". Those new entrants are likely to settle down to become the titans of that industry. The most interesting aspect of this cycle is in the change (**point 1** in figure 133) between the two states of peace and war and it's here we will focus.
 
-Whilst the act (e.g. computing) may be well understood, this transition (e.g. computing shifting from products such as servers to utility services such as cloud) causes a great deal of confusion because the nature of the act is changing — we're moving from a world of constant feature differentiation to a world of volume operations of good enough. This change is compounded by co-evolved practices (such as DevOps), our inertia to it, the surprising speed at which it occurs and vested interests usually spreading all manner of fear, uncertainty and doubt.
+Whilst the act (e.g. computing) may be well understood, this transition (e.g. computing shifting from products such as servers to utility services such as cloud) causes a great deal of confusion because the nature of the act is changing — we're moving from a world of constant feature differentiation to a world of volume operations of good enough. This change is compounded by co-evolved practices (such as DevOps), our inertia to it, the surprising speed at which it occurs and vested interests usually spreading all manner of fear, uncertainty and doubt.
 
-![Figure 133 — A time of change](images/figure-133.jpeg)
+![Figure 133 — A time of change](images/figure-133.jpeg)
 
 Behind the confusion, what is fundamentally occurring is the rise of new standards, the de facto optimisation of a market and a shift towards commodity. This doesn't mean that alternatives aren't available, we often have a battle over standards e.g. AC vs DC in the "electricity wars" or VHS vs Betamax for video recording standards. It's however marketplace adoption and network effects that will choose the winner and consign others to the niche of history. It's important to understand that in the early stages then everything is up for grabs.
 
 ### Alternatives in Cloud Computing
 
-When Amazon launched EC2 (its utility compute environment) in 2006, I made a number of calls to executives in traditional hardware companies and offered to help them set up a competing service using our Borg technology — a suite of tools that we had used to provide on demand virtual machines within my own company . I was confident we could easily emulate the APIs of Amazon and though we were behind the game in some areas, we were ahead in others. Overwhelmingly there was no interest and the couple (i.e. two) meetings I managed to arrange always ended up with the same result — "how will this help us sell more servers?"
+When Amazon launched EC2 (its utility compute environment) in 2006, I made a number of calls to executives in traditional hardware companies and offered to help them set up a competing service using our Borg technology — a suite of tools that we had used to provide on demand virtual machines within my own company . I was confident we could easily emulate the APIs of Amazon and though we were behind the game in some areas, we were ahead in others. Overwhelmingly there was no interest and the couple (i.e. two) meetings I managed to arrange always ended up with the same result — "how will this help us sell more servers?"
 
 I'd like to say that by 2008 the attitude had changed but it hadn't. In late 2008, in the first of many such trips, I flew to the US, met a number of executives, told them their entire hardware business would be lost, showed them how by creating a market of AWS clones and creating a price war they could exploit a constraint that Amazon would have in building data centres and use this to fragment the market by pushing demand beyond supply. I explained why they wouldn't do this due to existing inertia and why they would lose the war. The lack of interest was beyond palpable, it was dismissive. Amazon was not considered a threat but a minnow and only a "madman" would think otherwise. To paraphrase what I was told, these companies would be "doing something in the future in that market, creating their own standards and taking this industry away from Amazon if it ever became serious" which they assured me it wouldn't. In all but actual words the message was clearly "go away little boy and let the grown ups deal with this in a responsible manner". The air was always thick with endless prognostications of their own future greatness along with the old trope of "how will your stuff sell more servers?"
 
 The truth be told, I did feel like the naughty boy pointing at the Emperor and going "he's got no clothes on". It was like staring generals in the face and telling them that ordering troops to continue walking north over a cliff wasn't a good idea and getting a gentle pat on the head or a pinch on the cheeks with the kindly guffaw of "walking north is what we do!"
 
-The problem with evolution in business is the threat is much larger than most realise due to the punctuated equilibrium and the rapid speed of change. You can either create a large ecosystem fast which means a very focused effort around creating a marketplace based upon some form of open standards or you can co-opt and eventually aim to own the standard. What you cannot afford to do is dilly dally, rest on your laurels or try to create another differentiated product solution to compete against evolution. Unfortunately, this is exactly what happened. The companies that have lost the cloud war had all the advantage — they had the finances, the skills, the talent, the reach, the brand and everything you could possibly want to win it. They were like generals in charge of massive modern armies going up against a David armed with a sling and a spud gun. Fortunately for David, the generals all ordered their troops to walk north, over the cliff and to their doom.
+The problem with evolution in business is the threat is much larger than most realise due to the punctuated equilibrium and the rapid speed of change. You can either create a large ecosystem fast which means a very focused effort around creating a marketplace based upon some form of open standards or you can co-opt and eventually aim to own the standard. What you cannot afford to do is dilly dally, rest on your laurels or try to create another differentiated product solution to compete against evolution. Unfortunately, this is exactly what happened. The companies that have lost the cloud war had all the advantage — they had the finances, the skills, the talent, the reach, the brand and everything you could possibly want to win it. They were like generals in charge of massive modern armies going up against a David armed with a sling and a spud gun. Fortunately for David, the generals all ordered their troops to walk north, over the cliff and to their doom.
 
 The cloud war in infrastructure was lost not due to some magical engineering capability of Amazon but instead due to executive failure of past giants. Every single one of them could have won the war with ease. When they finally did act it was too late, with too little investment and often in the wrong direction because of a pre-occupation on what they wanted ("selling servers") and not what their users needed. But users also had inertia to this change and in a somewhat tragic act of desperation this was seized upon. Past giants had found their Kodak moment.
 
@@ -38,13 +38,13 @@ To reduce this cost then either you want multiple public providers with are inte
 
 If I go back to the Zimki plan (figure 134) then along with creating an ecosystem models around a serverless platform, we also intended to create a marketplace of platform providers and we hoped for a marketplace of infrastructure providers. It's worth making a distinction here. You have a consumer ecosystem (as in companies or individuals that use your component), a supplier ecosystem (as in companies or individuals that provide components for you to use) and a marketplace (of consumers and suppliers around a component). These are not the same.
 
-![Figure 134 — Marketplace or ecosystem or both?](images/figure-134.jpeg)
+![Figure 134 — Marketplace or ecosystem or both?](images/figure-134.jpeg)
 
 In the case above, we aimed to build a consumer ecosystem around our platform as a service i.e. we hoped many others would consume our component enabling us to run that "innovate-leverage-commoditise" model and to sense future change. We also aimed to provide a marketplace of providers (i.e. to enable others to set up as platform players) in order to overcome concerns over lock-in to a single provider. To achieve this we had announced the open sourcing of Zimki along with testing services to enable others to become Zimki providers.
 
 However, in our value chain, we also consumed components of infrastructure from others and hence it was advantageous to us (for reasons of pricing competition) that our ecosystem of suppliers consisted of a competitive marketplace with interoperability and easy switching between them. We intended to achieve this by open sourcing Borg (our infrastructure play) which would co-opt the APIs of any major utility provider if it appeared. Hence my early phone calls to those executives offering to provide them with an Amazon competitor.
 
-Open sourcing a technology not only enables that component to evolve quickly but it can help in creating an interoperable marketplace with switching between providers especially when combined with testing services. The last part is crucial, as there is always the danger than providers will try to differentiate with features in a commodity market creating what's known as a collective prisoner dilemma — everyone weakening their own position and that of others through self interest. Unfortunately, whilst this was my plan in 2005, the entire project had been killed off in 2007 for not being "the future". By the time the hardware executives finally woke up and started to play an open source game around OpenStack in 2010, they invested far too little and far too late. They failed to co-opt (arguing for differentiation) and failed to prevent a collective prisoner dilemma forming.
+Open sourcing a technology not only enables that component to evolve quickly but it can help in creating an interoperable marketplace with switching between providers especially when combined with testing services. The last part is crucial, as there is always the danger than providers will try to differentiate with features in a commodity market creating what's known as a collective prisoner dilemma — everyone weakening their own position and that of others through self interest. Unfortunately, whilst this was my plan in 2005, the entire project had been killed off in 2007 for not being "the future". By the time the hardware executives finally woke up and started to play an open source game around OpenStack in 2010, they invested far too little and far too late. They failed to co-opt (arguing for differentiation) and failed to prevent a collective prisoner dilemma forming.
 
 It's water under the bridge but if the competitors had reacted more timely, put in enough investment, focused on co-opting APIs, created a price war to force up demand beyond supply due to Amazon's constraint then we might have seen a vibrant marketplace of many providers. Instead, we've seen not only industrialisation of computing infrastructure to utilities but also centralisation towards Amazon. This is another point to highlight in this sorry tale. Industrialisation does not necessarily mean centralisation. What it means is standardisation to a de facto. The question of whether something centralises or decentralises is influenced by other factors beyond evolution including executive gameplay.
 
@@ -52,25 +52,25 @@ The reason why Amazon dominates the market is it has played the game well whilst
 
 For infrastructure, this shift from peace to war has long passed and the victors have emerged. For the "serverless" platform world, we're in the midst of this change at the moment. The war has been raging but it will soon be over. By 2020, we should probably know who the winners and losers will be.
 
-Opportunity on a map can be found in several places. From the genesis of the novel or the provision of unmet needs or differentiation of a product or the time of transition from one state (e.g. peace) to another (e.g. war) — see figure 135.
+Opportunity on a map can be found in several places. From the genesis of the novel or the provision of unmet needs or differentiation of a product or the time of transition from one state (e.g. peace) to another (e.g. war) — see figure 135.
 
-![Figure 135 — Opportunity and change](images/figure-135.jpeg)
+![Figure 135 — Opportunity and change](images/figure-135.jpeg)
 
 The maps won't tell you what path you should take but they are a guide to help you discuss and decide.
 
 ## The trouble with contracts
 
-Contracts like plans are often the bane of my life. It's not that they don't have a use, they do in terms of setting expectations. Unfortunately, for some reason that I have yet to fathom, people tend to invoke mystical properties around contracts. They tend to believe that the contract or plan represents a reality that is foretold — *"If it's in the contract then it must happen as it is written"*. This is quickly followed by disappointment and disputes when it doesn't. But surely, that's the point of the contract — *"we want to know what is being delivered!"*
+Contracts like plans are often the bane of my life. It's not that they don't have a use, they do in terms of setting expectations. Unfortunately, for some reason that I have yet to fathom, people tend to invoke mystical properties around contracts. They tend to believe that the contract or plan represents a reality that is foretold — *"If it's in the contract then it must happen as it is written"*. This is quickly followed by disappointment and disputes when it doesn't. But surely, that's the point of the contract — *"we want to know what is being delivered!"*
 
-To explain why that principle is the problem then I'm going to use an example for a communication platform for a large organisation with a distributed workforce that often worked on events. This organisation had a detailed plan for the communication platform, an exhaustive specification (hundreds of pages) and a division of the system into lots for contracting. It all seemed very sensible. However, as is my usual style, when I first met the team then I asked the question — *"What is the user need?"*
+To explain why that principle is the problem then I'm going to use an example for a communication platform for a large organisation with a distributed workforce that often worked on events. This organisation had a detailed plan for the communication platform, an exhaustive specification (hundreds of pages) and a division of the system into lots for contracting. It all seemed very sensible. However, as is my usual style, when I first met the team then I asked the question — *"What is the user need?"*
 
 The responses were somewhat elusive and wispy. It was felt that the answers were in the pages of the specification but they were not to hand. No-one had put them together. So, we spent a few hours and mapped the system out (see figure 136). The basic user needs were device to device communication (e.g. "I need to tell Joe to pick up a box"), point to multiple points (e.g. "I need to tell all my team to come to Sheffield"), emergency function (e.g. "We need more staff at this event"), scheduling (e.g. "I need to know where to go next") to various applications, video recording and even simple use as a telephone.
 
-![Figure 136 — Communication Platform](images/figure-136.jpeg)
+![Figure 136 — Communication Platform](images/figure-136.jpeg)
 
 To make the system manageable, the organisation had broken it down into what it considered to be sensible contracts based broadly upon financial value and other characteristics. However, when I overlaid those contract "lots" onto the map then there was an obvious problem. One lot known as "C" was very broad including items which were industrialised and others which were highly specialised, often custom made (see figure 137).
 
-![Figure 137 — Trouble with outsourcing](images/figure-137.jpeg)
+![Figure 137 — Trouble with outsourcing](images/figure-137.jpeg)
 
 Why is this a problem? Let us assume we apply an outsourcing contract to Lot "C" for delivery against some specification. Obviously we want to know what's being delivered hence we put effort into writing the specification. We have some form of competitive tender process which many potential suppliers bid for.
 
@@ -92,21 +92,21 @@ One case worthy of praise in business, is the truly marvellous work of Lieutenan
 
 **Fast** + **Inexpensive** + **Restrained** + **Elegant** = FIRE
 
-Taking these FIRE principles, I've applied them to our map of a communication platform form above which I've broken down into small discrete areas avoiding any broad systems i.e. no mixing of industrialised with the uncharted. Each of these areas should be managed using small budgets, short schedules — see figure 138.
+Taking these FIRE principles, I've applied them to our map of a communication platform form above which I've broken down into small discrete areas avoiding any broad systems i.e. no mixing of industrialised with the uncharted. Each of these areas should be managed using small budgets, short schedules — see figure 138.
 
-![Figure 138 — FIRE](images/figure-138.jpeg)
+![Figure 138 — FIRE](images/figure-138.jpeg)
 
 With such a map we can now apply the use of appropriate methods and techniques. For the more industrialised components we can look to re-use market standards or outsourcing arrangements under detailed specification or even utility providers such as cloud services. For the more novel we can build in-house or have contracts based upon time and material basis (see figure 139).
 
-![Figure 139 — Using standard components and appropriate methods](images/figure-139.jpeg)
+![Figure 139 — Using standard components and appropriate methods](images/figure-139.jpeg)
 
 It's worth noting that with novel items then you will tend to try and build these in-house. There are alternatives. You could outsource them under a time and material basis to a group that specialises in the experimentation required but this is a different type of arrangement from outsourcing under a specification or volume operations. You might even outsource the novel to the market i.e. just let the market get on with discovering what is there and take a back seat until the component becomes more evolved. Procrastination can be a useful tool if consciously used as such and with a good understanding of the landscape.
 
 We can also use the map to organise ourselves with small teams, distributing power away from some central planning office and giving autonomy and control to those on the "ground", at the "coal face" who can make decisions more quickly, with a greater understanding of detail (see figure 140).
 
-![Figure 140 — Distribute power](images/figure-140.jpeg)
+![Figure 140 — Distribute power](images/figure-140.jpeg)
 
-Using appropriate methods, tighter control on schedules and budgets with empowered people — what's not to like? Actually, there's often huge resistance to this.
+Using appropriate methods, tighter control on schedules and budgets with empowered people — what's not to like? Actually, there's often huge resistance to this.
 
 ### It's all too difficult
 
@@ -116,17 +116,17 @@ Of course, the vendor will blame you for not knowing what you wanted thus leadin
 
 The normal reaction to breaking down a complicated (and possibly complex) system is that it makes it difficult to manage. It exposes many areas to consider, many teams and many interfaces (see figure 141). The reality is those areas and interfaces existed beforehand and the use of a large (and broad) contracts is just a way of trying to make it someone else's responsibility to manage. We are often willing participants in a game where to avoid managing the environment then we accept excessive cost overruns, inappropriate methods, loss of strategic control and ultimately greater risk whilst claiming the approach reduces risk. Outsourcing is a global practice that is often disparaged in the popular press due to these associations.
 
-![Figure 141 — Exposing interfaces](images/figure-141.jpeg)
+![Figure 141 — Exposing interfaces](images/figure-141.jpeg)
 
 I need to emphasise that the problems are not with outsourcing per se but instead with what is being outsourced. The concept of outsourcing is based upon a premise that no organisation is entirely self-sufficient nor does any have unlimited resources and some work can be conducted by others at a lower cost. This is entirely reasonable. The organisational focus should not be on the pursuit of capabilities that third parties have the skills and technology to better deliver and can provide economies of scale. Every tea shop does not need to be a power generator, a tea plantation, a dairy herd and a kettle manufacturer. This practice occurs safely in more mature industries; the machine manufacturer doesn't have to make its own nuts and bolts and can instead buy those from a supplier.
 
-Alas IT is not such an industry. A recent study that examined 5,4000 projects concluded that over 66% of large sized (in excess of $15M) software projects "massively blow their budgets" and 17% went so bad that they threatened the very existence of the company. The larger the project, the higher the rate of failure. Let us focus on those points. In an attempt to avoid managing what we should manage then under a banner of reducing risk we put the existence of entire companies at stake in 1 out of 6 cases and go disastrously wrong in 4 out 6. If this is **management** then to quote Inigo Montoya from The Princess Bride — *"You keep using that word, I do not think it means what you think it means"*.
+Alas IT is not such an industry. A recent study that examined 5,4000 projects concluded that over 66% of large sized (in excess of $15M) software projects "massively blow their budgets" and 17% went so bad that they threatened the very existence of the company. The larger the project, the higher the rate of failure. Let us focus on those points. In an attempt to avoid managing what we should manage then under a banner of reducing risk we put the existence of entire companies at stake in 1 out of 6 cases and go disastrously wrong in 4 out 6. If this is **management** then to quote Inigo Montoya from The Princess Bride — *"You keep using that word, I do not think it means what you think it means"*.
 
-In comparison, the approach of SOCOM (special operations command) in the US Military is towards smaller projects, short acquisition cycles and re-use. As Dan Ward points out, 88% of SOCOM projects fit the FIRE principles with over 60% of those projects staying within cost and schedule estimates with the remaining 40% experiencing only "modest" overruns. The problems are not outsourcing as a concept but the size and breadth of the projects under such contracts. It is far more effective to think small — as in small teams, small contracts and small areas of focus.
+In comparison, the approach of SOCOM (special operations command) in the US Military is towards smaller projects, short acquisition cycles and re-use. As Dan Ward points out, 88% of SOCOM projects fit the FIRE principles with over 60% of those projects staying within cost and schedule estimates with the remaining 40% experiencing only "modest" overruns. The problems are not outsourcing as a concept but the size and breadth of the projects under such contracts. It is far more effective to think small — as in small teams, small contracts and small areas of focus.
 
 But there's more to the game than this. It also offers up opportunities. Within the communication platform there is a requirement for an application store (see **point 1**, figure 142). It's not uncommon even in 2017 with the abundance of well established application stores such as Google Play for companies to still believe that they need to build their own. Often such actions can be taken over concerns of control or because some pre-existing effort is under way or in production. These are all forms of inertia. But how do you deal with such inertia and any pre-existing systems? How can you turn this into an opportunity?
 
-![Figure 142 — Dealing with legacy](images/figure-142.jpeg)
+![Figure 142 — Dealing with legacy](images/figure-142.jpeg)
 
 In 2008, one of the big inertia barriers to adopting cloud services was legacy environments. These systems depended upon different architectural principles and were not suited to adoption of cloud infrastructure. Many companies decided that what they needed was a cloud service which acted like their "enterprise" environment. The reality is that such environments are a trade off between the cost of re-architecting versus the benefit of standardised commodity components. Whilst not a long term future, the appearance of vendors offering such enterprise clouds does provide an opportunity for exploitation. To explain this, I'll outline three basic ways of dealing with legacy :-
 
@@ -156,7 +156,7 @@ Despite all of this, we try to grab for simple truths. In 2008, this was commonp
 
 One of the most common ideas was that cloud computing would reduce IT budget expenditure. It's a notion that if cloud computing is more efficient then then we will spend less on IT. Sounds simple, sounds obvious and yet it is so wrong.
 
-I gave a talk at IT@Cork (in 2008) on how this assumption ignored creation of new industries, componentisation and price elasticity effects. By increasing efficiency and the reducing cost of providing infrastructure then a large number of activities which might have been economically unfeasible become feasible. Furthermore, the self-service nature of cloud not only increases agility by enabling faster provision it also enables user innovation through provision of standardised components (the componentisation effect). Building a house is faster with bricks than a clay pit. This in turn can encourage the creation of new industries in the same manner that the commoditisation of electronic switching — from the innovation of the Flemming valve to complex products containing thousands of switches — led to digital calculators and computers. As these industries evolved they drove further demand for electronic switching.
+I gave a talk at IT@Cork (in 2008) on how this assumption ignored creation of new industries, componentisation and price elasticity effects. By increasing efficiency and the reducing cost of providing infrastructure then a large number of activities which might have been economically unfeasible become feasible. Furthermore, the self-service nature of cloud not only increases agility by enabling faster provision it also enables user innovation through provision of standardised components (the componentisation effect). Building a house is faster with bricks than a clay pit. This in turn can encourage the creation of new industries in the same manner that the commoditisation of electronic switching — from the innovation of the Flemming valve to complex products containing thousands of switches — led to digital calculators and computers. As these industries evolved they drove further demand for electronic switching.
 
 The effect of these forces is that whilst infrastructure provision may become more efficient, the overall demand for infrastructure will outstrip these gains precisely because infrastructure has become a more efficient and standardised component. We end up using vastly more of a more efficient resource. This effect is not new. It was noted by Willam Stanley Jevons in the 1850s, when he "observed that England's consumption of coal soared after James Watt introduced his coal-fired steam engine, which greatly improved the efficiency of Thomas Newcomen's earlier design"
 
@@ -164,7 +164,7 @@ In figure 143 I've outlined the main effects. First (**point 1**) you have an ac
 
 However, the more industrialised component can enable greater use of the component as previously uneconomical acts become viable (**point 2**). There can be a long tail of things we'd like to do and unmet needs which are enabled by the efficiency of provision. The final aspect (**point 3**) is consumption of the component will increase as new industries that it enabled start to evolve.
 
-![Figure 143 — Jevons paradox](images/figure-143.jpeg)
+![Figure 143 — Jevons paradox](images/figure-143.jpeg)
 
 But can't I just ignore this? We're talking market effects here? Won't it reduce my budget because all I care about is what I produce and not what new fangled industry is created or what unmet needs can now be met?
 
@@ -178,7 +178,7 @@ Another common talking point in 2008 was whether cloud computing would be green.
 
 When we consider a value chain, we're constantly industrialising components and building new systems on top of them. Machinery on top of the nut and bolt. Intelligent software agents on top of databases on top of computing on top of electricity. We are constantly creating higher order systems built upon more industrialised and ordered components. We are building towers of order out of the chaos. As with other biological systems, we are decreasing local entropy and that requires energy. We might be far from efficiently using energy today but regardless our underlying demand and consumption of power will increase (see figure 144). In order for progress to be green then inevitably we need to turn to the means of energy production.
 
-![Figure 144 — Feel the power](images/figure-144.jpeg)
+![Figure 144 — Feel the power](images/figure-144.jpeg)
 
 ### We can deal with it later.
 
@@ -186,7 +186,7 @@ Whenever we see a shift from products to more industrialised forms such as utili
 
 If I take figure 143 from above and overlay onto it this flow of capital along with the peace, war and wonder cycle then we can get a sense of what is happening. At the same time that an act is become more efficiently provided through industrialised forms with its demand increasing due to a long tail of unmet needs and the creation of new industry then financial capital is flowing away from past product vendors towards the new vendors and new companies serving those new markets. Now add in the co-evolution of new practice caused by the evolving act, the new forms of organisation that arise, the speed of change caused by a punctuated equilibrium, the inevitability of change (i.e. the Red Queen) and the inaction of past giants caused by inertia then what you have is destruction of the past at the same time as the future is being created. The combination of competition with basic climatic patterns such as inertia and co-evolution creates this constant pulse of new consumer needs, new vendors, new methods of production, new markets and new forms of organisation. This heart-beat was described by Joseph Schumpeter as "creative destruction" (see figure 145) and by the time it becomes obvious, it's usually too late to react.
 
-![Figure 145 — Creative destruction](images/figure-145.jpeg)
+![Figure 145 — Creative destruction](images/figure-145.jpeg)
 
 But hang on! If we know about the cycle, if we can use weak signals to anticipate it, if we understand the different forms of inertia then surely we can prepare and adapt when it occurs? Why on earth would any company be disadvantaged or eliminated by it? The problem is blindness and this leads to the next lie we tell ourselves.
 
@@ -196,32 +196,32 @@ One thing I had become aware of in my journey around companies was that few seem
 
 Movement isn't simply about drawing a line on a picture it's about the consistency of meaning of such a line. Position, anchor and movement are essential for navigation. Take a look at figure 146. It's a farm (that's the context), it's visual, it has position of fields relative to an anchor (in this case the compass) and you can draw movement on it. You'd probably agree that you can give this map to someone else and they could quite happily find the barley field with it.
 
-![Figure 146 — A map of a farm.](images/figure-146.jpeg)
+![Figure 146 — A map of a farm.](images/figure-146.jpeg)
 
 
-I've taken the same map, kept the same number of fields plus their shape and relative areas but removed any concept of position and the anchor. I've just placed the fields in order of what type they are — fruit, livestock and crop. I've also added a movement line to it. The question is, could you hand this "map" (figure 147) to someone else and expect them to find the barley field?
+I've taken the same map, kept the same number of fields plus their shape and relative areas but removed any concept of position and the anchor. I've just placed the fields in order of what type they are — fruit, livestock and crop. I've also added a movement line to it. The question is, could you hand this "map" (figure 147) to someone else and expect them to find the barley field?
 
-![Figure 147 — A "map" of a farm.](images/figure-147.jpeg)
+![Figure 147 — A "map" of a farm.](images/figure-147.jpeg)
 
-It should be obvious that the answer is no. Movement and its consistency — you can follow this path to go from A to B — are not only essential qualities of a map but they also turn out to be essential for map making. Explorers can't explore by just sitting still, something has to move (whether it's them, a drone or a satellite is immaterial). Action is a necessity for exploration.
+It should be obvious that the answer is no. Movement and its consistency — you can follow this path to go from A to B — are not only essential qualities of a map but they also turn out to be essential for map making. Explorers can't explore by just sitting still, something has to move (whether it's them, a drone or a satellite is immaterial). Action is a necessity for exploration.
 
 Movement matters with maps because space itself has meaning. That's quite a complex and esoteric concept to understand, so to make it simple I'm going to use one of those system "maps" which aren't actually maps. Take figure 147a below and compare to figure 147b. I've highlighted a box called CRM (customer relationship management) and moved it. Does the meaning of the "map" change as a result of moving the box?
 
-![Figure 147a — A systems map](images/figure-147a.jpeg)
+![Figure 147a — A systems map](images/figure-147a.jpeg)
 
-![Figure 147b — A systems map with the CRM box "moved"](images/figure-147b.jpeg)
+![Figure 147b — A systems map with the CRM box "moved"](images/figure-147b.jpeg)
 
 The CRM boxes have the same connections to other components. There's no obvious change of meaning. Now, consider an Atlas. Let me shift Australia and put it next to the UK. Does that change the meaning of the Atlas? Well, of course it does. In a map, the space has meaning. For our systems diagram to be a map then all the space (see figure 147c) would have to mean something and you couldn't just shift a box without changing the meaning.
 
-![Figure 147c — Space has meaning.](images/figure-147c.jpeg)
+![Figure 147c — Space has meaning.](images/figure-147c.jpeg)
 
 Anchor, position and movement are essential qualities of a map and they create meaning for the space being explored. These navigational qualities enable us to learn about the environment whether through a visual form or a equivalent internalised mental model.
 
 However, there are ways to create a different form of map by in effect anchoring the "space" to the lines of the map. Take for example the tube map. It has position of stations (anchored by the tube network itself) and consistent movement between them. If I'm at Bond Street there are multiple routes for me to get to Cannon Street but there is consistency. If I'm travelling anticlockwise on the circle line, then I know I will travel through South Kensington, Sloane Square, Victoria, St James' Park and Westminster on my journey (**point 3**, figure 148). If there was no consistency then the circle line might take me via Victoria, St James' Park and Westminster one day and Victoria, Edgeware Road and Mornington Crescent the next. I wouldn't know where I would end up and it would be impossible to navigate.
 
-![Figure 148 — A tube map](images/figure-148.jpeg)
+![Figure 148 — A tube map](images/figure-148.jpeg)
 
-It's important to understand what anchoring the space means in this case — there are no alternatives but to travel along the path of the tube network. You cannot use the tube map to dig your own tunnel from Cannon Street to Holborn. Naturally, Transport for London does of course have geographically accurate tube maps where the map is bound to the actual geographic landscape and hence anchored with a compass — this is north of that or east of there.
+It's important to understand what anchoring the space means in this case — there are no alternatives but to travel along the path of the tube network. You cannot use the tube map to dig your own tunnel from Cannon Street to Holborn. Naturally, Transport for London does of course have geographically accurate tube maps where the map is bound to the actual geographic landscape and hence anchored with a compass — this is north of that or east of there.
 
 The tube map doesn't have to look like the above. You could also build your own variety of tube map by simply travelling on the trains and recording the stations but as long as you can consistently describe movement then it is a map (anchored to the tube network) that you can share with others. But, I hear some argue "if the tube map is a map then can't I declare my systems diagram a map as there is no alternative?"
 
@@ -229,7 +229,7 @@ Well, by such a declaration you are saying that the only way this system can be 
 
 Now, I've made quite a detour into tube maps because they are currently a vogue in the business world with various companies creating them to describe complex environments. For example, in figure 149 we have a "tube map" of the digital world. The maps lacks context being simply a grouping of technology and digital concepts. It has position of components but it is not clear what anchor is used. If we assume that the "tube network" is the anchor then according to the "map", if I wish to go from Online Ad Networks to Agency Holding Companies you need to travel through social advertising then email marketing then digital agencies then management consultants then campaign management then media metrics then media agencies to reach the destination. Is this true? On what basis is that movement consistent and justified? I'm afraid this is not a map, it's a diagram of loosely connected concepts and questionable relationships. It's about as un-map like as you can make it, with only two redeeming qualities of being visual and having components.
 
-![Figure 149 — A tube "map" of the digital world](images/figure-149.jpeg)
+![Figure 149 — A tube "map" of the digital world](images/figure-149.jpeg)
 
 So, why does this matter and what has this got to do with execution? Without maps then situational awareness will be poor. In 2008, I was still firmly under the illusion that people were just keeping their maps secret from me but doubts were growing. I started to have this notion that some companies might actually be blind to change and if people couldn't see the environment they were operating in then how could they prepare for predictable forms of change? By the time such changes would become obvious, their pace and any inherent inertia would make them unsurmountable and even fatal. However, in discussion with others I was often told that this didn't matter, that strategy was fairly meaningless compared to the real key which was execution. I also had doubts about this because firing a gun rapidly doesn't help you if you don't know where to fire it.
 
@@ -237,14 +237,14 @@ In 2010, Professor Roger L. Martin challenged this notion head on in the Executi
 
 Every company told me they had strategy but I was acutely aware that there existed different levels of situational awareness. I had been interviewing 160+ Silicon Valley companies looking for examples of open gameplay whether open source, open data or open standards. I plotted these companies against their level of strategic play based upon situational awareness (i.e. using their understanding of own and competitors value chains and how they were evolving) versus their propensity to take action (in this case to use an open approach to change a market). The result is shown in figure 150.
 
-![Figure 150 — Awareness vs Action](images/figure-150.jpeg)
+![Figure 150 — Awareness vs Action](images/figure-150.jpeg)
 Leading Edge Forum 2012 study on situational awareness versus action
 
 The bigger the bubbles, the more companies at that point. This was Silicon Valley, supposedly the top end of competition and even here there were companies building strategic play based upon low levels of situational awareness and in some cases near blindness to their environment. Quite a few not only didn't understand evolution, they didn't know their value chains or even what their users needed.
 
 Now, if execution rules then the companies on the right hand side of this graph with a high tendency towards taking action should probably on average perform better. Of course, if strategic play based upon situational awareness was important then the companies at the top of the graph should perform better. Out of curiosity, I decided to examine market cap changes of those companies over the last 7 years. The results are shown in figure 151.
 
-![Figure 151 — Market Capitalisation impact](images/figure-151.jpeg)
+![Figure 151 — Market Capitalisation impact](images/figure-151.jpeg)
 Leading Edge Forum 2012 study on situational awareness versus action
 
 I can't repeat what my first response was but let us just say that I was very surprised. What the data strongly suggests is those companies with high levels of strategic play based upon situational awareness and a propensity towards action perform better than those who don't. Just having a focus on action is not enough.
@@ -257,7 +257,7 @@ However, if you have poor situational awareness and are competing against someon
 
 In 2014, I was messing around with modelling agents in a competitive market and looking at various impacts on company longevity. This was partially out of curiosity, a desire to learn and general play. I wasn't expecting to find anything. I created a simulation with 1,000 agents (companies) competing against each other with each company having a starting age of 45 years. I added some variables for disruption through product vs product substitution, overlaid a peace, war and wonder cycle including new entrants and disruption of past players. I then added steps for acceleration of evolution due to industrialisation of communication mechanisms. I ran a multitude of scenarios and noticed patterns starting to emerge. One of the most interesting is shown in figure 152
 
-![Figure 152 — Agent modelling of competition.](images/figure-152.jpeg)
+![Figure 152 — Agent modelling of competition.](images/figure-152.jpeg)
 
 What's happening in the above is a constant undulation in average company age of the top 400 in the simulation. The system is constantly attempting to return to a higher average age but the constant wars and disruption by new entrants (on top of the normal product to product substitution) keeps this in check. However, the acceleration of evolution (due to industrialisation of the means of communication) is causing a shift downwards to a lower age and a new stable plateau around which age will oscillate. What's interesting about this pattern is it reasonably closely mimics Richard N. Foster's examination of average company age in the S&P 500 despite being a random agent model with set rules and parameters i.e. automatons in a variation of Conway's Game of Life.
 
@@ -267,7 +267,7 @@ Why is that interesting? Well, the agents are automatons that are blind to the e
 
 A common counter to this idea that companies were playing blind was that it didn't matter. If we could find the ideal algorithms, rules or principles then we could create that sustaining organisation. You can think of this as a variation of Conway's Game of Life but with the conceit that all we need to do is to find the right code and the problem with my simulation is I just had the wrong principles. To challenge this, I'll use a bit of WoW.
 
-I've often found World of Warcraft (a massive multiplayer online role playing game known as WoW) to be a useful vehicle for explaining and exploring basic concepts of strategy and this is no exception. In this example, I want you to imagine two teams of players — the Horde and the Alliance — preparing to fight for the first time in a battleground called Warsong Gulch.
+I've often found World of Warcraft (a massive multiplayer online role playing game known as WoW) to be a useful vehicle for explaining and exploring basic concepts of strategy and this is no exception. In this example, I want you to imagine two teams of players — the Horde and the Alliance — preparing to fight for the first time in a battleground called Warsong Gulch.
 
 Both teams have a short time to prepare before the battle commences. The winner is the team that captures the opponent's flag three times. Let us assume neither team has been to Warsong Gulch before or has experience of fighting in battlegrounds. Just for reference, when your character is killed in the battleground it resurrects a few moments later in your team's graveyard. One team (the Alliance) outlines its strategy for how it's going to win the battle. It consists of what they describe as five principles that they've all agreed upon. These are :-
 
@@ -292,10 +292,10 @@ The team is enthusiastic and ready to go. Facing off against them is the team of
 **Context specific play** :
 
 * To begin with team will act as one cell in an initial all out attack. The group will quickly move through central tunnel towards the enemy base, taking out opposing players that interfere. Always take out opposing healers first, then wizards and then fighters.
-* Once their flag is captured by our fighter, the group will work to take out opposing players and setup camp in the opponents graveyard — see map (figure 153) — killing off their players as they are resurrected and before they create any form of group. Taunting Alliance players is encouraged.
+* Once their flag is captured by our fighter, the group will work to take out opposing players and setup camp in the opponents graveyard — see map (figure 153) — killing off their players as they are resurrected and before they create any form of group. Taunting Alliance players is encouraged.
 * Once their graveyard is contained, the cell will split into two cells. A small offensive group consisting of a couple of wizards will take out opposing stragglers and the larger cell (including our flag carrying fighter) will continue to camp out in the opposing team's graveyard killing all players that resurrect. Once opposing players are contained in the graveyard the cell will reform and our fighter will keep running the flag. If the plan fails then the group will reform around our flag carrier.
 
-![Figure 153 — the Map of the play](images/figure-153.jpeg)
+![Figure 153 — the Map of the play](images/figure-153.jpeg)
 Annotated in game Map of Warsong Gluch, World of Warcraft
 
 Now, the Horde team has focus, principles and some form of context specific strategy based upon an understanding of the environment. It might not work but then the Horde players can use their maps to refine their gameplay with time. I can almost guarantee that when the battle kicks off, the first questions from the Alliance players will be "Should we attack or defend?" and "Where do we need to go?"
@@ -318,17 +318,17 @@ The problem of course is that strategy is not a long linear path but a constantl
 
 Let us take the example of a legal firm. You only need to travel back to the 1980s to find a world where will writing was a rather bespoke activity and legal firms made not inconsiderable sums from such practices. There was a constraint in terms of lawyers i.e. you needed a lawyer to write your will. Of course, industrialisation happened, Wills became more of commodity automated through standard templates and online services. Despite the gnashing of teeth and inertia created by past success (**point 1**, figure 154) the industry had to adapt. I've taken a liberty and simplified the components such as templates & computing to automation. What I want you to note is that the constraint between lawyers and wills was broken. Fortunately there was a wide variety of other contract structures which users demanded.
 
-![Figure 154 — Change to Wills](images/figure-154.jpeg)
+![Figure 154 — Change to Wills](images/figure-154.jpeg)
 
-Alas, despite recent experience of this change, the industry is once again facing industrialisation of general contract writing through the use of AI systems. Naturally, there is the usual inertia to such changes — *it's a relationship business, they won't be good enough* — but since we've gone through this cycle in that industry within living memory it's hopeful that more will adapt successfully this time. I suspect not (see figure 155). Once again the constraint of lawyers but this time to contracts will be broken.
+Alas, despite recent experience of this change, the industry is once again facing industrialisation of general contract writing through the use of AI systems. Naturally, there is the usual inertia to such changes — *it's a relationship business, they won't be good enough* — but since we've gone through this cycle in that industry within living memory it's hopeful that more will adapt successfully this time. I suspect not (see figure 155). Once again the constraint of lawyers but this time to contracts will be broken.
 
-![Figure 155 — Change to Contracts](images/figure-155.jpeg)
+![Figure 155 — Change to Contracts](images/figure-155.jpeg)
 
 The point of this is that if your vision had been to provide personal will and contract writing services based upon access to lawyers, then what worked in the 1980s will by 2030 be mainly irrelevant or at best a niche market. There's nothing you can do about this because you're not solely in control, there are other players in the market and just because you don't want it to become a commodity doesn't stop someone else exploiting it as such.
 
-These sorts of changes can also hit you from multiple directions including from lower down the value chain via reducing barriers to entry into your market. The newspaper industry has suffered a recent example of this with the printing press. Back in the 1980s, if you wanted to be a journalist then you had to work for a newspaper which owned or had access to a distribution network and printing presses. These capital intensive assets were a constraint that acted as a barrier to entry. They were also a mechanism of control over journalists — there was a limited number of newspapers you could work for.
+These sorts of changes can also hit you from multiple directions including from lower down the value chain via reducing barriers to entry into your market. The newspaper industry has suffered a recent example of this with the printing press. Back in the 1980s, if you wanted to be a journalist then you had to work for a newspaper which owned or had access to a distribution network and printing presses. These capital intensive assets were a constraint that acted as a barrier to entry. They were also a mechanism of control over journalists — there was a limited number of newspapers you could work for.
 
-Industrialisation of the means of mass communication through the internet was first considered a potential boon for media industries. However, it broke the constraint which has meant a flood of new entrants came into the market. Also any journalist can now set up their own online paper. This liberation changed the main reason why you'd work for a newspaper. It was no longer because they control the means of distribution but instead because of social capital — its network, brand, reputation — and access to other services. The media industry had to adapt or in some cases fail.
+Industrialisation of the means of mass communication through the internet was first considered a potential boon for media industries. However, it broke the constraint which has meant a flood of new entrants came into the market. Also any journalist can now set up their own online paper. This liberation changed the main reason why you'd work for a newspaper. It was no longer because they control the means of distribution but instead because of social capital — its network, brand, reputation — and access to other services. The media industry had to adapt or in some cases fail.
 
 But even the act of collecting, curating and writing news is now under pressure from AI with its more widespread use in business and sport reporting. The National Society of Newspaper Columnists, founded in 1977, has a core focus to promote professionalism and camaraderie among columnists and other writers but how does that mission fit into a world of computer generated copy? It's the same with automotive industry where a core focus on the human driving experience might be relevant for the past but irrelevant or niche in a future of self driving cars. Of all the terms I come across then focus on core is probably the most destructive for the longevity of a company. To overcome it, you simply to have to accept the truth that there is no core other than a transient focus.
 
@@ -336,20 +336,20 @@ But even the act of collecting, curating and writing news is now under pressure 
 
 We've covered a lot of ground in these chapters, so I thought in this final sections I'd recap some of the basics on how to *master* strategy. You'll need this for the scenario. I've italicised *master* because I don't really have a clue how to do that. I'm still learning and I've been using maps for over a decade. For now, all I can say is that strategy seems to be a journey of constant learning and the more I learn, the more I realise how little I know. If anyone does actually become a master then I'd be pleased to read about how they did it. There maybe a faster way to master strategy than a seemingly endless journey of learning. There might even be a 2x2 that'll explain everything but so far, I haven't found it. Hence in the absence of some marvellous solution, I'll give you some basic steps.
 
-### Step 1 — The cycle
+### Step 1 — The cycle
 
-Understand that strategy is a continuous cycle. You don't have all the information you need, you don't know all the patterns and there are many aspects of life that are uncertain. Fortunately not all is uncertain. Start with a direction (i.e. a why of purpose, as in "I wish to win this game of chess") but be prepared to adapt as the game unfolds (i.e. the why of movement, as in "should I move this chess piece or that one?"). Your first step on the journey is to understand the cycle of strategy — figure 156. Lots of people can help you here from John Boyd (OODA loops) to Sun Tzu (art of war).
+Understand that strategy is a continuous cycle. You don't have all the information you need, you don't know all the patterns and there are many aspects of life that are uncertain. Fortunately not all is uncertain. Start with a direction (i.e. a why of purpose, as in "I wish to win this game of chess") but be prepared to adapt as the game unfolds (i.e. the why of movement, as in "should I move this chess piece or that one?"). Your first step on the journey is to understand the cycle of strategy — figure 156. Lots of people can help you here from John Boyd (OODA loops) to Sun Tzu (art of war).
 
-![Figure 156 — the strategy cycle](images/figure-156.jpeg)
+![Figure 156 — the strategy cycle](images/figure-156.jpeg)
 
-### Step 2 — Learn the landscape
+### Step 2 — Learn the landscape
 
-Your next step is to observe the game i.e. to look at the landscape — figure 157. This is essential for you to be able to learn about the game, to communicate with others and to anticipate change. To observe the landscape you must have a map of its context. Any map must have the basic characteristics of : being visual, context specific (i.e. to the game at hand including the pieces involved), position of pieces relative to some anchor (in geographical maps this is the compass, in chess it is the board itself) and movement (i.e. how things can change, the constraint of possibilities). In business, extremely few companies have maps and so don't worry too much about where others are going or grand proclamations that they might make.
+Your next step is to observe the game i.e. to look at the landscape — figure 157. This is essential for you to be able to learn about the game, to communicate with others and to anticipate change. To observe the landscape you must have a map of its context. Any map must have the basic characteristics of : being visual, context specific (i.e. to the game at hand including the pieces involved), position of pieces relative to some anchor (in geographical maps this is the compass, in chess it is the board itself) and movement (i.e. how things can change, the constraint of possibilities). In business, extremely few companies have maps and so don't worry too much about where others are going or grand proclamations that they might make.
 
-![Figure 157 — Build a map](images/figure-157.jpeg)
+![Figure 157 — Build a map](images/figure-157.jpeg)
 
 
-### Step 3 — Learn and use climatic patterns
+### Step 3 — Learn and use climatic patterns
 
 Once you have a map, then you can start to learn the next part of the strategy cycle i.e. climatic patterns. In business maps, these are the common economic patterns that effect all players and can be considered the rules of the game. Use those patterns to try and anticipate where the market is heading. The more you play, the more rules you'll discover. It's really important that before you start trying to organise and structure yourself (i.e. apply doctrine) that you look at where the market is going and not where it has been. No-one ever wins by building the perfect structure for the past. We've covered a pretty extensive number of the basic economic patterns but as I reminder, I'll list them adding a few more flourishes where needed.
 
@@ -401,7 +401,7 @@ The constant evolution of components and creation of higher order systems that t
 The lines on the map represent flows of capital whether it's between two existing components or a component and its future more evolved self. Financial capital will seek the area of most consistent return. Hence in the evolution from product to a utility then capital will tend to move away from the pre-existing product forms and towards the more industrialised component and the new industries built upon it
 
 *Evolution of communication can increase the speed of evolution overall*
-Evolution consists of many diffusion curves. If a means of communication evolves to a more industrialised form — whether printing press, postage stamp, telephone, the internet — then the speed of diffusion curves can increase. This in turn can accelerate the rate at which future components evolve. Care should be taken here, not to confuse faster evolution with us becoming more innovative as a people. Certainly we have greater opportunity to build new things but don't assume we're getting smarter.
+Evolution consists of many diffusion curves. If a means of communication evolves to a more industrialised form — whether printing press, postage stamp, telephone, the internet — then the speed of diffusion curves can increase. This in turn can accelerate the rate at which future components evolve. Care should be taken here, not to confuse faster evolution with us becoming more innovative as a people. Certainly we have greater opportunity to build new things but don't assume we're getting smarter.
 
 *Change is not always linear*
 There can often be a perception that change is gradual because one instance of a component (e.g. a product) is replaced by another in the same stage of evolution (i.e. a more feature complete product). This illusion of smooth and gradual change lulls us into a false sense of security that all change is such.
@@ -439,15 +439,15 @@ There is more than one form of disruption such as the unpredictable product to p
 *A "war" (point of industrialisation) causes organisations to evolve*
 The industrialisation of an act will tend to cause co-evolution of practice and changes to how organisations operate. If the component is significant then this can lead to a new form of organisation.
 
-You need to apply these patterns to your map to start to learn how things could change. You then need to allow others to challenge your assumptions and the scenarios you create — another key part of learning — until you've got a map you all agree with or at least understand e.g. figure 158
+You need to apply these patterns to your map to start to learn how things could change. You then need to allow others to challenge your assumptions and the scenarios you create — another key part of learning — until you've got a map you all agree with or at least understand e.g. figure 158
 
-![Figure 158 — Anticipating change](images/figure-158.jpeg)
+![Figure 158 — Anticipating change](images/figure-158.jpeg)
 
-### Step 4 — Learn and use doctrine
+### Step 4 — Learn and use doctrine
 
 Now you have an idea of your landscape and how it can change, you'll want to start doing stuff about it. However, there are two classes of choice ; those which are universally applicable and those which are context specific. The universally applicable choices are a set of principles which we all should apply. These are your doctrine.
 
-At the time of writing, this is my list of basic doctrine — hence Wardley's Doctrine (I really am that unimaginative). This is based upon my observations over many maps with many organisations and contains universal principles that I consider to be reasonably sound. Many of these we have already covered
+At the time of writing, this is my list of basic doctrine — hence Wardley's Doctrine (I really am that unimaginative). This is based upon my observations over many maps with many organisations and contains universal principles that I consider to be reasonably sound. Many of these we have already covered
 
 ### Wardley's Doctrine
 
@@ -488,7 +488,7 @@ Try to focus on the outcome and what you're trying to achieve. Realise that diff
 If something is industrialised and if standards exist then try to use them. There's always a temptation to build a better standard but avoid this or building abstraction layers on top of other "standards" unless you have an extremely compelling reason to do so. If you need a toaster, buy a toaster and don't try building one from scratch.
 
 *Optimise flow*
-Within a map there will be many flows of capital — whether information, risk, social or financial. Try to optimise this and remove bottlenecks.
+Within a map there will be many flows of capital — whether information, risk, social or financial. Try to optimise this and remove bottlenecks.
 
 *Effectiveness over efficiency*
 Whilst optimising flow is important, be careful not to waste valuable time making the ineffective more efficient. Understand the landscape and how it is changing before you attempt to optimise flow.
@@ -533,7 +533,7 @@ This is best explained through the word's or Rimmer's Study Habit (an episode fr
 Do not attempt to create the perfect map. Have a bias towards action because the landscape will change and you will discover more through action. You learn by playing the game.
 
 *Listen to your ecosystems*
-There are many different forms of ecosystems and ways to exploit them. You can build powerful sensing engines (e.g. the ILC model) for future change, sources of co-operation with others, defensive and offensive alliances. But ecosystems need management, they need tending as a gardener tends a garden — sometimes you allow them to grow wild, sometime you harvest, sometimes you help direct or constrain them. These are particular skills that you can develop but most important is the principle — listen to them.
+There are many different forms of ecosystems and ways to exploit them. You can build powerful sensing engines (e.g. the ILC model) for future change, sources of co-operation with others, defensive and offensive alliances. But ecosystems need management, they need tending as a gardener tends a garden — sometimes you allow them to grow wild, sometime you harvest, sometimes you help direct or constrain them. These are particular skills that you can develop but most important is the principle — listen to them.
 
 *A bias towards the new*
 Whatever you do will evolve. So have a bias towards the new, be curious and take appropriate risks. Be willing to experiment.
@@ -571,15 +571,15 @@ Whilst the actions you take, the way that you organise and the focus on detail r
 *Be humble*
 Listen to others, be selfless, have fortitude and be humble. Inspire others by who you are and what you do. There are many ways to manipulate the landscape e.g. with marketing by persuading others that what is a commodity is somehow different or that a product is unique to them. But these manipulations come with a cost not just externally but internally. We can start to believe our own hype, our own infallibility and our "right" to the market. Avoid this arrogance at all costs.
 
-As with climatic patterns, the more you play the game then the more forms of doctrine you'll discover. It's important to learn these continuously, so get used to using maps as a retrospective. Look for what has changed and always ask why? Of course, knowing about doctrine is not enough — you'll want to apply it. Don't pick and choose, apply them all. When it comes to applying doctrine then there are three basic cases:-
+As with climatic patterns, the more you play the game then the more forms of doctrine you'll discover. It's important to learn these continuously, so get used to using maps as a retrospective. Look for what has changed and always ask why? Of course, knowing about doctrine is not enough — you'll want to apply it. Don't pick and choose, apply them all. When it comes to applying doctrine then there are three basic cases:-
 
 * the map solves doctrine for you (e.g. having a common language)
 * you can use many maps to apply doctrine (e.g. use of multiple maps of different lines of business to reduce duplication and bias)
-* you can apply doctrine directly to a map (e.g. cell based structures, cultural forms such as pioneer — settler — town planner) as shown in figure 159.
+* you can apply doctrine directly to a map (e.g. cell based structures, cultural forms such as pioneer — settler — town planner) as shown in figure 159.
 
-![Figure 159 — Apply doctrine](images/figure-159.jpeg)
+![Figure 159 — Apply doctrine](images/figure-159.jpeg)
 
-### Step 5 — Learn and use gameplay
+### Step 5 — Learn and use gameplay
 
 The other class of choice is context specific. You will learn there exists many approaches that you can deploy in order to influence the map. These approaches depend upon the map and the position of pieces within it i.e. they are not universal and you have to learn when and where to use them. To get you started, some basic from of gameplay (often called stratagems) are :-
 
@@ -609,9 +609,9 @@ A mechanism of bringing providers and consumers together and exploiting network 
 *Sensing Engines (ILC)*
 A mechanism of being the first mover to industrialise a component, allowing others (the ecosystem) to build new industries upon it and then using consumption data to determine future candidates for industrialisation.
 
-As with climatic patterns and doctrine, then the more you play the game then the more context specific patterns you will discover. With your understanding of the landscape, an ability to anticipate change based upon climatic patterns and a knowledge of context specific play that you can use to manipulate the map then you should be able to determine where you could attack and how you can use gameplay to increase your odds of success. At the very least, you should be able to create a common understanding of where you're going and why you're taking certain approaches within the company — see figure 160.
+As with climatic patterns and doctrine, then the more you play the game then the more context specific patterns you will discover. With your understanding of the landscape, an ability to anticipate change based upon climatic patterns and a knowledge of context specific play that you can use to manipulate the map then you should be able to determine where you could attack and how you can use gameplay to increase your odds of success. At the very least, you should be able to create a common understanding of where you're going and why you're taking certain approaches within the company — see figure 160.
 
-![Figure 160 — Applying gameplay](images/figure-160.jpeg)
+![Figure 160 — Applying gameplay](images/figure-160.jpeg)
 
 You then decide to act. You loop around the cycle and repeat this whole exercise. Don't hesitate with action, make your plans and roll the dice. It's worth remembering that one of your actions maybe to change direction of the company itself, to alter your very purpose. You might start of as a paper mill but you might become a telecommunications company. Get used to it, there is no "core" to a company beyond short term immediate focus.
 
@@ -631,7 +631,7 @@ A **fluid** system is one with low engineering resilience but high ecological re
 
 A **resilient** system is one with high engineering and ecological resilience. Not only is the system capable of coping with a wide variety of physical extremes, the entire system rapidly adapts to a changing environment in order to exist. Nature in its entirety can be considered resilient and it has become so through the process of evolution. Nature consists of many biological ecosystems occupying niches and any change in physical conditions enables one biological ecosystem to invade the space of another. The efficiency and survival of life is preserved bar the most catastrophic of shocks.
 
-This last point is critical. It is evolution through competition and a changing environment that has made Nature itself resilient. Evolution is driven by competition and far from the gradual and peaceful concept that abounds in literature, it involves the entire annihilation of species and individual biological ecosystems in a violent orgy of death throughout history. Species have evolved mechanisms to survive this orgy of death. Your body builds muscle because of constant exercise but burns that same muscle during starvation — it's all part of our bodies energy management that has evolved to cope with change. Even death itself is a necessity to evolution and self replication with constrained resources.
+This last point is critical. It is evolution through competition and a changing environment that has made Nature itself resilient. Evolution is driven by competition and far from the gradual and peaceful concept that abounds in literature, it involves the entire annihilation of species and individual biological ecosystems in a violent orgy of death throughout history. Species have evolved mechanisms to survive this orgy of death. Your body builds muscle because of constant exercise but burns that same muscle during starvation — it's all part of our bodies energy management that has evolved to cope with change. Even death itself is a necessity to evolution and self replication with constrained resources.
 
 However, a consequence of this orgy has been diversity and whether it is diversity between or within species, this is a critical element of ecological resilience. Lack of diversity is often a major weakness of classical engineering systems through systemic failure. If you want to create a system that is capable of adapting to constant change, is resilient to the unknown and has the best shot at longevity as a whole then nature is a past master at this. Learn from life itself.
 

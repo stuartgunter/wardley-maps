@@ -14,15 +14,15 @@ So to the exercise at hand. I will explain with maps my reasoning to the choices
 
 Back in 2008, when I was faced with the situation that our scenario is very vaguely derived from, it had taken me about 45 minutes to scribble out a map on pen a paper and work through to an "answer". In case you need a map for the scenario, I provided their chosen strategy (figure 181) and a map for on which I've outlined the strategy (figure 182)
 
-![Figure 181 — The Phoenix Strategy](images/figure-181.jpeg)
+![Figure 181 — The Phoenix Strategy](images/figure-181.jpeg)
 
-![Figure 182 — Map with strategy](images/figure-182.jpeg)
+![Figure 182 — Map with strategy](images/figure-182.jpeg)
 
-As discussed in chapter 13 — *Something wicked this ways comes* — then I view that the strategy is about as poor as you can get. To cap it all off, the company itself has serious flaws in its makeup and composition. The CEO supported by a group of well trained executives is boldly charging the army over a cliff whilst trying to get rid of the one person who might possibly save them — the former CIO.
+As discussed in chapter 13 — *Something wicked this ways comes* — then I view that the strategy is about as poor as you can get. To cap it all off, the company itself has serious flaws in its makeup and composition. The CEO supported by a group of well trained executives is boldly charging the army over a cliff whilst trying to get rid of the one person who might possibly save them — the former CIO.
 
 To work through this problem to final a possible answer then we need to first distinguish where we could attack. Even on a simple map like this then there's lots of points we could focus on. It's much the same with a game of chess, there's usually a huge number of potential moves you could make. The trick is sorting out which ones are of interest and that takes experience and practice of the game. In figure 183 I've listed the obvious wheres on our map ignoring the more wishful thinking such as *"buy up the Chinese sensor manufacturer"*.
 
-![Figure 183 — the wheres](images/figure-183.jpeg)
+![Figure 183 — the wheres](images/figure-183.jpeg)
 
 1. focus on marketing towards our users.
 1. develop new and uncertain capabilities.
@@ -37,7 +37,7 @@ To work through this problem to final a possible answer then we need to first di
 
 In such an map, there are always many paths. One path describes how the company thought of its future and the strategic choices it was making. It's quite clear that the company could not see the threat of the sensors and co-evolution of practice or how dangerous the US company was or even how it had inertia to change. In all likelihood, such a company wouldn't even understand how things evolve. In their mind, they might have an unwritten map but it'll look more like figure 184. To this company, their strategy makes sense because they don't understand how the landscape is changing. The commodity sensors are just a disconnected component which they believe they have choice over or the cloud is just an optional choice. They have none of the anticipation that is brought on by an understanding of climatic patterns
 
-![Figure 184 — the Phoenix map](images/figure-184.jpeg)
+![Figure 184 — the Phoenix map](images/figure-184.jpeg)
 
 That said, they were motivated. It's a judgement call here as to whether an organisation can be altered in a time frame that enables you to exploit an environment. In this case, given the principles (i.e. doctrine) exhibited then I'd say not. There isn't enough time to alter the company and go head to head with the US competitor, this is a battle better withdrawn from for now.
 
@@ -45,9 +45,9 @@ However, I have several secret weapons. First, the US competitor is using the sa
 
 Applying a bit of thought to the map, another path now becomes available or in this case two paths as it's a combination of simultaneous plays. I've marked these in orange and grey on the map in figure 185.
 
-![Figure 185 — my play](images/figure-185.jpeg)
+![Figure 185 — my play](images/figure-185.jpeg)
 
-### The grey play — Pig in a Poke
+### The grey play — Pig in a Poke
 
 I'm going to sell this company (**grey point 1**). I'm going to want to maximise my return which means I'll put effort into marketing (**point 2**) and promoting Phoenix as the future in this market, reinforcing those analyst messages. I'm also going to encourage the marketing team to heavily play on concerns over any cloud effort (**point 3**). Hence a bit of fear, uncertainty and doubt (FUD) is useful.
 
@@ -59,7 +59,7 @@ I'd also have a quiet chat with the CEO about the problem CIO and offer to move 
 
 My real goal here is pig in a poke, I want to maximise the capital returned through the disposal of the subsidiary. Before you state that no-one in the market would buy Phoenix then print out the the scenario (chapter 12) and try it out on a group of executives. To make your life easier, I've provided [a link to a pdf of the scenario](https://drive.google.com/open?id=0B7PYjFuYmV89WHRJMVhlNGdfeFE). If those executives don't know how to map, they'll probably choose the cloud, Brazil and efficiency efforts around data. If you talk to them about whether they think Phoenix has potential, then most will say yes. These are the people you'd want to be selling Phoenix to.
 
-### The orange play — the Future
+### The orange play — the Future
 
 Whilst the grey play is all about making significant capital through a disposal of Phoenix, the orange play in the map above is all about building the future.
 
@@ -69,7 +69,7 @@ I won't be building the service in Europe but in Brazil (**point 4**). Firstly t
 
 I'm going to be spending some time on this new subsidiary, making sure it's setup right and we don't get a repeat of Phoenix. I'd be looking for cell based structure, use of attitudes, FIRE, willingness to challenge and all that good stuff outlined in doctrine. To begin with, I need four basic teams (see figure 186) which I'm going to have to flesh out pretty quickly but I'd be hoping that the CIO will help me nab a few of the right people from the data group that Phoenix wants to remove.
 
-![Figure 186 — Team structure](images/figure-186.jpeg)
+![Figure 186 — Team structure](images/figure-186.jpeg)
 
 This is how I would play the game in order to maximise the benefit for the conglomerate. The return from the disposal will vastly exceed any investment needed. I could probably use it to fund a dozen new startups whilst returning a generous reward to the conglomerate. However, this play took me 45 minutes. I'm sure with a bit of effort then a better play can be found. Maybe you have it? I am willing to learn.
 
@@ -77,10 +77,10 @@ This is how I would play the game in order to maximise the benefit for the congl
 
 The above play feels a bit *"sneaky"*. Remember, your focus is on what is of benefit to the conglomerate and you never know, Phoenix could have a glorious future. In cases like this, you need to put away concerns over the subsidiary and be true to yourself. Give them a chance to explore their own future in the comfort of someone else's purse. Don't lie to people, even the words I've put down for the CEO contain no lies. I've just omitted my own concerns which he wouldn't share anyway. If I thought those executives might then maybe I would take a different path. Remember, the above play could be wrong, you may be selling the golden goose which is why you'd need the rest of your executive board to challenge it.
 
-Also, it's not *"sneaky"* to sell of something that you believe will head over the cliff to another. They may be able to see something you can't and you're not responsible for them — caveat emptor. It's also not *"sneaky"* to emphasise Phoenix as the future, those analyst have been making positive noise in the scenario and maybe they're right?
+Also, it's not *"sneaky"* to sell of something that you believe will head over the cliff to another. They may be able to see something you can't and you're not responsible for them — caveat emptor. It's also not *"sneaky"* to emphasise Phoenix as the future, those analyst have been making positive noise in the scenario and maybe they're right?
 
 I said above that many executives would go for the cloud, Brazil and efficiency options and wouldn't look to sell Phoenix. They would see Phoenix as having potential. How do I know this? Well, I've run the scenario with over 200 executives from different companies and I've tested their response before they could map and after. The result is shown in figure 187
 
-![Figure 187 — Response to the scenario](images/figure-187.jpeg)
+![Figure 187 — Response to the scenario](images/figure-187.jpeg)
 
-Before they could map, the response was always towards building the cloud service. After learning to map, the response shifted to selling the company ("other"). The interesting thing to note is the scenario has many common tools used in business — a P&L to an overview of the market — but the addition of mapping changed the response significantly. The real question to ask is how many past decisions made on those common tools would have been different had they used maps?
+Before they could map, the response was always towards building the cloud service. After learning to map, the response shifted to selling the company ("other"). The interesting thing to note is the scenario has many common tools used in business — a P&L to an overview of the market — but the addition of mapping changed the response significantly. The real question to ask is how many past decisions made on those common tools would have been different had they used maps?

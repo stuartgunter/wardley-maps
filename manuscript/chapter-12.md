@@ -44,7 +44,7 @@ The CDO comments that there have also been recent social media stories about the
 
 The head of sales takes over the presentation and starts to run through the growth of the company. It's obvious that there's a lot of co-ordination between marketing, sales and digital and this team seems to be working well together. In 2016, the company had a record year with £123 million in revenue and over 6,277 customers including 690 new customers, 600 pre-threshold (installed and running but within first two years before renewal begins) and 4,987 on two year renewal. The digital group have been helping in providing mobile tools, communication and other capabilities for the sales team along with marketing tools for more targeted advertising. The expected growth in clients is provided in figure 161.
 
-![Figure 161 — Growth in clients](images/figure-161.jpeg)
+![Figure 161 — Growth in clients](images/figure-161.jpeg)
 
 The attrition rate has been high in recent years at 9% but the Sales team believes this is due to a lack of new features and a high cost of software license renewal. To combat this, the digital and product team is being expanded with a focus on new features and the renewal price will be frozen for the next two years (leading to a drop in price in real terms) with possible further reductions due to an efficiency drive. It is believed this combination should enable the company to reduce the attrition rate to 5% or less.
 
@@ -56,16 +56,16 @@ Over the last year, the digital team has worked on improving both the social med
 
 This will be one of the most significant investments taken in the history of the company, starting in 2018 and intended for launch near the end of 2020 with £45 million invested. The service will be provided on a license basis in order not to create conflict with the existing model and is considered to be a counter for any future threat from the US competitor as well as necessity for a modern technology company. It is expected that by 2023 (three years after launch), the cloud service will contribute almost £50M p.a. and account for over 10% of the company's revenue, see figure 162.
 
-![Figure 162 — Cloud Service revenue](images/figure-162.jpeg)
+![Figure 162 — Cloud Service revenue](images/figure-162.jpeg)
 
 The Phoenix cloud service will provide cross company reporting and advanced analytics. These capabilities will also be included in the on premise service and the company will promote this hybrid model of public or private alternatives. The public service will run on a major cloud provider, using emerging DevOps practices. The core algorithms and logic of Phoenix will be maintained but adapted to this new world. The business model was then explored including a business model canvas (figure 163) outlining the new service.
 
-![Figure 163 — Business Model Canvas](images/figure-163.jpeg)
+![Figure 163 — Business Model Canvas](images/figure-163.jpeg)
 Business Model Canvas framework from Strategyzer
 
 ### Technology changes
 
-Despite the benefit to clients in terms of energy savings through efficiency that Phoenix creates, there exists some concern over the high cost of the system in the market as was noted in the customer survey. There are two potential routes for reducing the cost — the sensor technology and data costs.
+Despite the benefit to clients in terms of energy savings through efficiency that Phoenix creates, there exists some concern over the high cost of the system in the market as was noted in the customer survey. There are two potential routes for reducing the cost — the sensor technology and data costs.
 
 *Sensor technology*
 The sensor technology accounts for 73% of the installation charge of £67K. There is a range of new, more commodity like sensors that has been launched in China by an extremely large manufacturer. These are far simpler, vastly cheaper (about 1/100th of the price of the existing sensors) and highly standardised. However, they are also extremely basic and lack the sensitivity and capability of the sensor that Phoenix uses. The CDO points out that the product team have attempted replacing the expensive sensor with one of these cheaper versions but the performance and analysis was severely degraded making the system almost unworkable. The CIO interrupts and says that *"a potential solution could be to use lots of the cheaper sensors"*.
@@ -75,13 +75,13 @@ The CDO points out that such an approach has been discussed several times before
 However, the operations, CDO and sales head all agree that despite these cheaper sensors being not good enough for the the job that the client expects, they nevertheless think it's worth keeping an eye on the market. They are aware of the concept of disruptive innovation and how these cheaper sensors could develop. The CDO now turns to another opportunity.
 
 *Data set*
-One of the costs to the company is in the environmental data provided in Phoenix. This data requires extensive testing and modelling of various bits of kit commonly used within data centres. Whilst this is done in-house by the IT department, there is now a data set available on the market which offers this. It is considered by the product team to be good enough and vastly cheaper than the solution from the in-house IT team. The CDO estimates that by buying in the outside data set then the company could reduce the costs of Phoenix by 3% — 4% and we should move forward with this idea. The Sales and Marketing heads agree the company should not only focus on improving our existing software package but reduce costs where possible. The CIO agrees with this assessment despite the obvious implications for IT.
+One of the costs to the company is in the environmental data provided in Phoenix. This data requires extensive testing and modelling of various bits of kit commonly used within data centres. Whilst this is done in-house by the IT department, there is now a data set available on the market which offers this. It is considered by the product team to be good enough and vastly cheaper than the solution from the in-house IT team. The CDO estimates that by buying in the outside data set then the company could reduce the costs of Phoenix by 3% — 4% and we should move forward with this idea. The Sales and Marketing heads agree the company should not only focus on improving our existing software package but reduce costs where possible. The CIO agrees with this assessment despite the obvious implications for IT.
 
 ## Strategy
 
 The head of strategy now discusses the future direction for the company. In a recent meeting, a number of directions were discussed with the entire executive team. These focused on the strengths of the company, the weaknesses in the existing product line, the potential opportunities in emerging markets and future threats such as the US player. Though the discussions have been *"challenging"*, the team developed a key number of actions that were considered to be urgent for the company. These were distilled into a new vision document called *"Growth and sustainability for Phoenix"*. These options were then investigated with the wider company management team through a collaborative effort, to create a priority list (see figure 164) which was then agreed with CEO to provide a final direction.
 
-![Figure 164 — Management priority order](images/figure-164.jpeg)
+![Figure 164 — Management priority order](images/figure-164.jpeg)
 
 The focus and the priorities of the company are :-
 
@@ -95,7 +95,7 @@ The focus and the priorities of the company are :-
 
 The CFO provides an overview of the company performance including a basic P&L for the company with estimates for future years (figure 165) that costs the program of changes highlighted by the strategy.
 
-![Figure 165 — P&L](images/figure-165.jpeg)
+![Figure 165 — P&L](images/figure-165.jpeg)
 
 The CFO highlights the following :
 
@@ -114,13 +114,13 @@ You have a call in forty-five minutes with the executive board. That's how long 
 
 Your first task is to determine whether the company is heading in the right direction. You should determine whether you agree with the priority order given in figure 166. If not, write down what your priority order would be. If you decide to invoke "other" then scribble down what that other is.
 
-![Figure 166 — Priority order](images/figure-166.jpeg)
+![Figure 166 — Priority order](images/figure-166.jpeg)
 
 Once you've decided your priority order then your next task is to determine what you're going to say to the executive board.
 
 ## A note to the reader
 
-Do try the exercise and spend that forty-five minutes on it. The temptation is always to skip to the next chapter and find the *"answer"* — if there is such a thing. However, that misses the whole point. This scenario is about you learning to play the game and to do so you need to put yourself in an uncomfortable position of getting things maybe wrong or maybe right. Try not to guess, try and work out why you feel this is the right or maybe the wrong thing to do. If you get flummoxed then give yourself a bit more time, maybe an hour and half at max but force yourself to make the choice.
+Do try the exercise and spend that forty-five minutes on it. The temptation is always to skip to the next chapter and find the *"answer"* — if there is such a thing. However, that misses the whole point. This scenario is about you learning to play the game and to do so you need to put yourself in an uncomfortable position of getting things maybe wrong or maybe right. Try not to guess, try and work out why you feel this is the right or maybe the wrong thing to do. If you get flummoxed then give yourself a bit more time, maybe an hour and half at max but force yourself to make the choice.
 
 You're playing with the future of a subsidiary and all the lives that it effects. There are people whose dreams and livelihoods will change by what you say and what you choose along with a fortune to be won or squandered. You need to feel that pressure, the discomfort of not having long to decide and imperfect information to decide upon. You also need a way to communicate your findings to the rest of the executive board. This challenge isn't supposed to be easy or comfortable.
 
