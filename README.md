@@ -9,7 +9,7 @@ I've also been exploring the idea of writing a Leanpub book for a while now, and
 
 ## Attribution
 
-This repo contains the source for the Wardley Maps [ebook on Leanpub](#). This is the original work of [Simon Wardley](https://medium.com/@swardley), a researcher for the [Leading Edge Forum](https://leadingedgeforum.com/), and the original is [published on Medium](https://medium.com/wardleymaps) under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. The same license has been applied to this repository.
+This repo contains the source for the Wardley Maps [ebook on Leanpub](https://leanpub.com/wardley-maps). This is the original work of [Simon Wardley](https://medium.com/@swardley), a researcher for the [Leading Edge Forum](https://leadingedgeforum.com/), and the original is [published on Medium](https://medium.com/wardleymaps) under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. The same license has been applied to this repository.
 
 I have tried to fairly represent all parties involved in producing this material (as described on the Medium posts). If any errors or omissions are discovered, please raise a PR or Issue so it can be rectified.
 
